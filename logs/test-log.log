@@ -1,0 +1,124 @@
+2025-06-12 00:46:16 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-12 00:46:22 [main] INFO  steps.BaseSteps - Element is visible: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-12 00:46:22 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-12 00:46:23 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-12 00:46:23 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/searchTextView
+2025-06-12 00:46:27 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/searchTextView
+2025-06-12 00:46:30 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-12 00:46:34 [main] INFO  steps.BaseSteps - Element is visible: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-12 00:46:41 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/filterArea
+2025-06-12 00:46:53 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/filterArea
+2025-06-12 00:46:53 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/apply
+2025-06-12 00:46:59 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/apply
+2025-06-12 00:46:59 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/sortArea
+2025-06-12 00:47:01 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/sortArea
+2025-06-12 00:47:01 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.xpath: //android.widget.TextView[@resource-id="com.akakce.akakce:id/sort_name" and @text="En Yüksek Fiyat"]
+2025-06-12 00:47:03 [main] INFO  steps.BaseSteps - Clicked on element: By.xpath: //android.widget.TextView[@resource-id="com.akakce.akakce:id/sort_name" and @text="En Yüksek Fiyat"]
+2025-06-12 00:48:34 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/detailBtnLayout
+2025-06-12 00:48:37 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/detailBtnLayout
+2025-06-12 00:48:37 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.xpath: //android.view.View[@content-desc="Satıcıya Git"]
+2025-06-12 00:48:47 [main] INFO  steps.BaseSteps - Element is visible: By.xpath: //android.view.View[@content-desc="Satıcıya Git"]
+2025-06-12 00:53:53 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-12 00:53:59 [main] INFO  steps.BaseSteps - Element is visible: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-12 00:53:59 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-12 00:54:00 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-12 00:54:00 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/searchTextView
+2025-06-12 00:54:04 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/searchTextView
+2025-06-12 00:54:06 [main] INFO  steps.BaseSteps - Sent keys 'Laptop' to element located by: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-12 00:54:07 [main] INFO  steps.BaseSteps - ENTER key was sent using Actions.
+2025-06-12 00:54:07 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-12 00:54:17 [main] WARN  steps.BaseSteps - Element is not visible within the timeout: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-12 00:54:17 [main] INFO  steps.BaseSteps - ENTER key was sent using Actions.
+2025-06-12 00:54:20 [main] WARN  steps.BaseSteps - Swipe 1 did not reveal element located by By.id: com.akakce.akakce:id/filterArea. Swiping again...
+2025-06-12 00:54:23 [main] WARN  steps.BaseSteps - Swipe 2 did not reveal element located by By.id: com.akakce.akakce:id/filterArea. Swiping again...
+2025-06-12 00:54:25 [main] WARN  steps.BaseSteps - Swipe 3 did not reveal element located by By.id: com.akakce.akakce:id/filterArea. Swiping again...
+2025-06-12 00:54:33 [main] WARN  steps.BaseSteps - Swipe 4 did not reveal element located by By.id: com.akakce.akakce:id/filterArea. Swiping again...
+2025-06-12 00:54:37 [main] INFO  steps.BaseSteps - Element located by By.id: com.akakce.akakce:id/filterArea is now visible after 4 swipe(s).
+2025-06-12 00:54:37 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/filterArea
+2025-06-12 00:54:44 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/filterArea
+2025-06-12 00:54:44 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/apply
+2025-06-12 00:54:47 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/apply
+2025-06-12 00:54:47 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/sortArea
+2025-06-12 00:54:48 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/sortArea
+2025-06-12 00:54:48 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.xpath: //android.widget.TextView[@resource-id="com.akakce.akakce:id/sort_name" and @text="En Yüksek Fiyat"]
+2025-06-12 00:54:51 [main] INFO  steps.BaseSteps - Clicked on element: By.xpath: //android.widget.TextView[@resource-id="com.akakce.akakce:id/sort_name" and @text="En Yüksek Fiyat"]
+2025-06-12 00:54:56 [main] INFO  steps.BaseSteps - Swiping to find more elements located by By.id: com.akakce.akakce:id/card. Swipe count: 1
+2025-06-12 00:54:57 [main] INFO  steps.BaseSteps - Completed 1 swipe(s) for elements located by By.id: com.akakce.akakce:id/card
+2025-06-12 00:55:01 [main] INFO  steps.BaseSteps - Swiping to find more elements located by By.id: com.akakce.akakce:id/card. Swipe count: 1
+2025-06-12 00:55:02 [main] INFO  steps.BaseSteps - Completed 1 swipe(s) for elements located by By.id: com.akakce.akakce:id/card
+2025-06-12 00:55:08 [main] INFO  steps.BaseSteps - Swiping to find more elements located by By.id: com.akakce.akakce:id/card. Swipe count: 1
+2025-06-12 00:55:09 [main] INFO  steps.BaseSteps - Completed 1 swipe(s) for elements located by By.id: com.akakce.akakce:id/card
+2025-06-12 00:55:14 [main] INFO  steps.BaseSteps - Swiping to find more elements located by By.id: com.akakce.akakce:id/card. Swipe count: 1
+2025-06-12 00:55:15 [main] INFO  steps.BaseSteps - Completed 1 swipe(s) for elements located by By.id: com.akakce.akakce:id/card
+2025-06-12 00:55:22 [main] INFO  steps.BaseSteps - Swiping to find more elements located by By.id: com.akakce.akakce:id/card. Swipe count: 1
+2025-06-12 00:55:22 [main] INFO  steps.BaseSteps - Completed 1 swipe(s) for elements located by By.id: com.akakce.akakce:id/card
+2025-06-12 00:55:28 [main] INFO  steps.BaseSteps - Swiping to find more elements located by By.id: com.akakce.akakce:id/card. Swipe count: 1
+2025-06-12 00:55:29 [main] INFO  steps.BaseSteps - Completed 1 swipe(s) for elements located by By.id: com.akakce.akakce:id/card
+2025-06-12 00:55:34 [main] INFO  steps.BaseSteps - Swiping to find more elements located by By.id: com.akakce.akakce:id/card. Swipe count: 1
+2025-06-12 00:55:34 [main] INFO  steps.BaseSteps - Completed 1 swipe(s) for elements located by By.id: com.akakce.akakce:id/card
+2025-06-12 00:55:39 [main] INFO  steps.BaseSteps - Swiping to find more elements located by By.id: com.akakce.akakce:id/card. Swipe count: 1
+2025-06-12 00:55:40 [main] INFO  steps.BaseSteps - Completed 1 swipe(s) for elements located by By.id: com.akakce.akakce:id/card
+2025-06-12 00:55:46 [main] INFO  steps.BaseSteps - Swiping to find more elements located by By.id: com.akakce.akakce:id/card. Swipe count: 1
+2025-06-12 00:55:46 [main] INFO  steps.BaseSteps - Completed 1 swipe(s) for elements located by By.id: com.akakce.akakce:id/card
+2025-06-12 00:55:55 [main] INFO  steps.BaseSteps - Clicked on element at reverse index 1 (actual index 5) located by By.id: com.akakce.akakce:id/card
+2025-06-12 00:55:58 [main] WARN  steps.BaseSteps - Swipe 1 did not reveal element located by By.id: com.akakce.akakce:id/detailBtnLayout. Swiping again...
+2025-06-12 00:56:00 [main] INFO  steps.BaseSteps - Element located by By.id: com.akakce.akakce:id/detailBtnLayout is now visible after 1 swipe(s).
+2025-06-12 00:56:00 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/detailBtnLayout
+2025-06-12 00:56:03 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/detailBtnLayout
+2025-06-12 00:56:03 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.xpath: //android.view.View[@content-desc="Satıcıya Git"]
+2025-06-12 00:56:08 [main] INFO  steps.BaseSteps - Element is visible: By.xpath: //android.view.View[@content-desc="Satıcıya Git"]
+2025-06-12 01:04:35 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-12 01:04:40 [main] INFO  steps.BaseSteps - Element is visible: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-12 01:04:40 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-12 01:04:42 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-12 01:04:42 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/searchTextView
+2025-06-12 01:04:47 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/searchTextView
+2025-06-12 01:04:50 [main] INFO  steps.BaseSteps - Sent keys 'Laptop' to element located by: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-12 01:04:50 [main] INFO  steps.BaseSteps - ENTER key was sent using Actions.
+2025-06-12 01:04:50 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-12 01:04:54 [main] INFO  steps.BaseSteps - Element is visible: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-12 01:04:59 [main] WARN  steps.BaseSteps - Swipe 1 did not reveal element located by By.id: com.akakce.akakce:id/filterArea. Swiping again...
+2025-06-12 01:05:04 [main] INFO  steps.BaseSteps - Element located by By.id: com.akakce.akakce:id/filterArea is now visible after 1 swipe(s).
+2025-06-12 01:05:04 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/filterArea
+2025-06-12 01:05:17 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/filterArea
+2025-06-12 01:05:17 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/apply
+2025-06-12 01:05:27 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/apply
+2025-06-12 01:05:27 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/sortArea
+2025-06-12 01:05:31 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/sortArea
+2025-06-12 01:05:31 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.xpath: //android.widget.TextView[@resource-id="com.akakce.akakce:id/sort_name" and @text="En Yüksek Fiyat"]
+2025-06-12 01:05:32 [main] INFO  steps.BaseSteps - Clicked on element: By.xpath: //android.widget.TextView[@resource-id="com.akakce.akakce:id/sort_name" and @text="En Yüksek Fiyat"]
+2025-06-12 01:05:39 [main] INFO  steps.BaseSteps - Swiping to find more elements located by By.id: com.akakce.akakce:id/card. Swipe count: 1
+2025-06-12 01:05:39 [main] INFO  steps.BaseSteps - Completed 1 swipe(s) for elements located by By.id: com.akakce.akakce:id/card
+2025-06-12 01:05:44 [main] INFO  steps.BaseSteps - Adding to product list. list size 4. 
+2025-06-12 01:05:44 [main] INFO  steps.BaseSteps - model name Lenovo Thinkpad P16 Gen 2 Intel Core I9 13980HX 256GB 1tb SSD 16GB Nvıdıa RTX5000ADA WM970 Chipset 16" Wqxga 165Hz 500NITS Windows 11 Pro Taşınabilir Bilgisayar 21FA000BTX-A17
+2025-06-12 01:05:47 [main] INFO  steps.BaseSteps - Swiping to find more elements located by By.id: com.akakce.akakce:id/card. Swipe count: 1
+2025-06-12 01:05:48 [main] INFO  steps.BaseSteps - Completed 1 swipe(s) for elements located by By.id: com.akakce.akakce:id/card
+2025-06-12 01:05:52 [main] INFO  steps.BaseSteps - Adding to product list. list size 5. 
+2025-06-12 01:05:52 [main] INFO  steps.BaseSteps - model name Proart Ultra 9 285K 128GB Ddr5 2tb M.2 8tb HDD Astral RTX5090 Oc W11P
+2025-06-12 01:05:56 [main] INFO  steps.BaseSteps - Swiping to find more elements located by By.id: com.akakce.akakce:id/card. Swipe count: 1
+2025-06-12 01:05:57 [main] INFO  steps.BaseSteps - Completed 1 swipe(s) for elements located by By.id: com.akakce.akakce:id/card
+2025-06-12 01:06:02 [main] INFO  steps.BaseSteps - Adding to product list. list size 6. 
+2025-06-12 01:06:02 [main] INFO  steps.BaseSteps - model name Lenovo Thinkpad P16 Gen 2 Intel Core I9 13980HX 128GB 8tb SSD 16GB Nvıdıa RTX5000ADA WM970 Chipset 16" Wqxga 165Hz 500NITS Windows 11 Pro Taşınabilir Bilgisayar 21FA000BTX-A16
+2025-06-12 01:06:06 [main] INFO  steps.BaseSteps - Swiping to find more elements located by By.id: com.akakce.akakce:id/card. Swipe count: 1
+2025-06-12 01:06:07 [main] INFO  steps.BaseSteps - Completed 1 swipe(s) for elements located by By.id: com.akakce.akakce:id/card
+2025-06-12 01:06:13 [main] INFO  steps.BaseSteps - Adding to product list. list size 7. 
+2025-06-12 01:06:13 [main] INFO  steps.BaseSteps - model name Lenovo Thinkpad P16 Gen 2 Intel Core I9 13980HX 256GB 4tb SSD 16GB Nvıdıa RTX5000ADA WM970 Chipset 16" Wqxga 165Hz 500NITS Windows 11 Pro Taşınabilir Bilgisayar 21FA000BTX-A19
+2025-06-12 01:06:17 [main] INFO  steps.BaseSteps - Swiping to find more elements located by By.id: com.akakce.akakce:id/card. Swipe count: 1
+2025-06-12 01:06:18 [main] INFO  steps.BaseSteps - Completed 1 swipe(s) for elements located by By.id: com.akakce.akakce:id/card
+2025-06-12 01:06:23 [main] INFO  steps.BaseSteps - Adding to product list. list size 8. 
+2025-06-12 01:06:23 [main] INFO  steps.BaseSteps - model name Lenovo Thinkpad P16 Gen 2 Intel Core I9 13980HX 96GB 8tb SSD 16GB Nvıdıa RTX5000ADA WM970 Chipset 16" Wqxga 165Hz 500NITS Windows 11 Pro Taşınabilir Bilgisayar 21FA000BTX-A12
+2025-06-12 01:06:26 [main] INFO  steps.BaseSteps - Swiping to find more elements located by By.id: com.akakce.akakce:id/card. Swipe count: 1
+2025-06-12 01:06:27 [main] INFO  steps.BaseSteps - Completed 1 swipe(s) for elements located by By.id: com.akakce.akakce:id/card
+2025-06-12 01:06:31 [main] INFO  steps.BaseSteps - Adding to product list. list size 9. 
+2025-06-12 01:06:31 [main] INFO  steps.BaseSteps - model name Hp Zbook Fury 16 G11 Intel Core I9-14900HX 192GB 8tb SSD Rtx 5000 ADA/16GB 16" Wuxga Windows 11 Pro Taşınabilir Iş Istasyonu 5F9J9ES-A16
+2025-06-12 01:06:36 [main] INFO  steps.BaseSteps - Swiping to find more elements located by By.id: com.akakce.akakce:id/card. Swipe count: 1
+2025-06-12 01:06:36 [main] INFO  steps.BaseSteps - Completed 1 swipe(s) for elements located by By.id: com.akakce.akakce:id/card
+2025-06-12 01:06:41 [main] INFO  steps.BaseSteps - Adding to product list. list size 10. 
+2025-06-12 01:06:41 [main] INFO  steps.BaseSteps - model name Lenovo Thinkpad P16 Gen 2 Intel Core I9 13980HX 192GB 2tb SSD 16GB Nvıdıa RTX5000ADA WM970 Chipset 16" Wqxga 165Hz 500NITS Windows 11 Pro Taşınabilir Bilgisayar 21FA000BTX-A18
+2025-06-12 01:06:47 [main] INFO  steps.BaseSteps - Clicked on element at reverse index 1 (actual index 5) located by By.id: com.akakce.akakce:id/card
+2025-06-12 01:06:53 [main] WARN  steps.BaseSteps - Swipe 1 did not reveal element located by By.id: com.akakce.akakce:id/detailBtnLayout. Swiping again...
+2025-06-12 01:06:57 [main] INFO  steps.BaseSteps - Element located by By.id: com.akakce.akakce:id/detailBtnLayout is now visible after 1 swipe(s).
+2025-06-12 01:06:57 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/detailBtnLayout
+2025-06-12 01:06:59 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/detailBtnLayout
+2025-06-12 01:06:59 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.xpath: //android.view.View[@content-desc="Satıcıya Git"]
+2025-06-12 01:07:08 [main] INFO  steps.BaseSteps - Element is visible: By.xpath: //android.view.View[@content-desc="Satıcıya Git"]
