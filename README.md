@@ -11,7 +11,7 @@ Java, Appium ve Cucumber kullanılarak geliştirilmiş basit bir test otomasyon 
 - Üye olmadan devam et seçeneği ile ilerler (Login bilgisi isterse)
 - Arama kutusuna “Laptop” yazar ve aratır.
 - Filtrele butonuna tıklar.
-- Alt Kategori -> Bilgisayar,Donanım seçer ve Ürünleri Gör butonuna tıklar.
+- "4K" seçeneğini seçer ve Ürünleri Gör butonuna tıklar.
 - Sıralama seçeneklerinden En Yüksek Fiyat seçeneğini seçer.
 - Sonuç ekranından 10. Ürüne tıklar ve Ürüne Git butonuna tıklar.
 - Ürün detayı ekranında Satıcıya Git butonunun görüntülendiğini doğrular.
