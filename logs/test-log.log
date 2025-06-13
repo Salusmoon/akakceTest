@@ -122,3 +122,1048 @@
 2025-06-12 01:06:59 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/detailBtnLayout
 2025-06-12 01:06:59 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.xpath: //android.view.View[@content-desc="Satıcıya Git"]
 2025-06-12 01:07:08 [main] INFO  steps.BaseSteps - Element is visible: By.xpath: //android.view.View[@content-desc="Satıcıya Git"]
+2025-06-13 12:44:07 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-13 12:44:12 [main] INFO  steps.BaseSteps - Element is visible: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-13 12:44:12 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-13 12:44:14 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-13 12:44:14 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/searchTextView
+2025-06-13 12:44:18 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/searchTextView
+2025-06-13 12:44:20 [main] INFO  steps.BaseSteps - Sent keys 'Laptop' to element located by: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 12:44:20 [main] INFO  steps.BaseSteps - ENTER key was sent using Actions.
+2025-06-13 12:44:20 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 12:44:31 [main] WARN  steps.BaseSteps - Element is not visible within the timeout: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 12:44:31 [main] INFO  steps.BaseSteps - ENTER key was sent using Actions.
+2025-06-13 12:44:34 [main] WARN  steps.BaseSteps - Swipe 1 did not reveal element located by By.id: com.akakce.akakce:id/filterArea. Swiping again...
+2025-06-13 12:44:37 [main] WARN  steps.BaseSteps - Swipe 2 did not reveal element located by By.id: com.akakce.akakce:id/filterArea. Swiping again...
+2025-06-13 12:44:42 [main] WARN  steps.BaseSteps - Swipe 3 did not reveal element located by By.id: com.akakce.akakce:id/filterArea. Swiping again...
+2025-06-13 12:44:45 [main] INFO  steps.BaseSteps - Element located by By.id: com.akakce.akakce:id/filterArea is now visible after 3 swipe(s).
+2025-06-13 12:44:45 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/filterArea
+2025-06-13 12:44:50 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/filterArea
+2025-06-13 12:44:53 [main] WARN  steps.BaseSteps - Swipe 1 did not reveal element located by By.xpath: //android.widget.TextView[@text="4K"]. Swiping again...
+2025-06-13 12:44:58 [main] INFO  steps.BaseSteps - Element located by By.xpath: //android.widget.TextView[@text="4K"] is now visible after 1 swipe(s).
+2025-06-13 12:44:58 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.xpath: //android.widget.TextView[@text="4K"]
+2025-06-13 12:45:05 [main] INFO  steps.BaseSteps - Clicked on element: By.xpath: //android.widget.TextView[@text="4K"]
+2025-06-13 12:45:05 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/apply
+2025-06-13 12:45:08 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/apply
+2025-06-13 12:45:08 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/sortArea
+2025-06-13 12:45:10 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/sortArea
+2025-06-13 12:45:10 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.xpath: //android.widget.TextView[@resource-id="com.akakce.akakce:id/sort_name" and @text="En Yüksek Fiyat"]
+2025-06-13 12:45:12 [main] INFO  steps.BaseSteps - Clicked on element: By.xpath: //android.widget.TextView[@resource-id="com.akakce.akakce:id/sort_name" and @text="En Yüksek Fiyat"]
+2025-06-13 12:45:17 [main] INFO  steps.BaseSteps - Swiping to find more elements located by By.id: com.akakce.akakce:id/card. Swipe count: 1
+2025-06-13 12:45:17 [main] INFO  steps.BaseSteps - Completed 1 swipe(s) for elements located by By.id: com.akakce.akakce:id/card
+2025-06-13 12:45:21 [main] INFO  steps.BaseSteps - Adding to product list. list size 4. 
+2025-06-13 12:45:21 [main] INFO  steps.BaseSteps - model name Monster Markut M7 V6.1.3 i9-13980HX 64 GB 2 TB SSD RTX3500 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 12:45:24 [main] INFO  steps.BaseSteps - Swiping to find more elements located by By.id: com.akakce.akakce:id/card. Swipe count: 1
+2025-06-13 12:45:25 [main] INFO  steps.BaseSteps - Completed 1 swipe(s) for elements located by By.id: com.akakce.akakce:id/card
+2025-06-13 12:45:27 [main] INFO  steps.BaseSteps - Adding to product list. list size 5. 
+2025-06-13 12:45:27 [main] INFO  steps.BaseSteps - model name Monster Markut M7 V6.1.2 i9-13980HX 64 GB 2 TB SSD RTX3500 Ada 17.3" FreeDOS 4K Taşınabilir İş İstasyonu
+2025-06-13 12:45:30 [main] INFO  steps.BaseSteps - Swiping to find more elements located by By.id: com.akakce.akakce:id/card. Swipe count: 1
+2025-06-13 12:45:30 [main] INFO  steps.BaseSteps - Completed 1 swipe(s) for elements located by By.id: com.akakce.akakce:id/card
+2025-06-13 12:45:33 [main] INFO  steps.BaseSteps - Adding to product list. list size 6. 
+2025-06-13 12:45:33 [main] INFO  steps.BaseSteps - model name Monster Markut M7 V6.1.1 i9-13980HX 32 GB 1 TB SSD RTX3500 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 12:45:36 [main] INFO  steps.BaseSteps - Swiping to find more elements located by By.id: com.akakce.akakce:id/card. Swipe count: 1
+2025-06-13 12:45:36 [main] INFO  steps.BaseSteps - Completed 1 swipe(s) for elements located by By.id: com.akakce.akakce:id/card
+2025-06-13 12:45:42 [main] INFO  steps.BaseSteps - Swiping to find more elements located by By.id: com.akakce.akakce:id/card. Swipe count: 1
+2025-06-13 12:45:43 [main] INFO  steps.BaseSteps - Completed 1 swipe(s) for elements located by By.id: com.akakce.akakce:id/card
+2025-06-13 12:45:46 [main] INFO  steps.BaseSteps - Adding to product list. list size 7. 
+2025-06-13 12:45:46 [main] INFO  steps.BaseSteps - model name Monster Markut M7 V6.1 i9-13980HX 32 GB 1 TB SSD RTX3500 Ada 17.3" FreeDOS 4K Taşınabilir İş İstasyonu
+2025-06-13 12:45:48 [main] INFO  steps.BaseSteps - Swiping to find more elements located by By.id: com.akakce.akakce:id/card. Swipe count: 1
+2025-06-13 12:45:49 [main] INFO  steps.BaseSteps - Completed 1 swipe(s) for elements located by By.id: com.akakce.akakce:id/card
+2025-06-13 12:45:51 [main] INFO  steps.BaseSteps - Adding to product list. list size 8. 
+2025-06-13 12:45:51 [main] INFO  steps.BaseSteps - model name Dell Precision 7680 I9 13950HX 64GB Ram Rtx Ada 5000 16GB 16" 4K Touch W11 Ingilizce Klavye - Gri
+2025-06-13 12:45:54 [main] INFO  steps.BaseSteps - Swiping to find more elements located by By.id: com.akakce.akakce:id/card. Swipe count: 1
+2025-06-13 12:45:54 [main] INFO  steps.BaseSteps - Completed 1 swipe(s) for elements located by By.id: com.akakce.akakce:id/card
+2025-06-13 12:45:57 [main] INFO  steps.BaseSteps - Adding to product list. list size 9. 
+2025-06-13 12:45:57 [main] INFO  steps.BaseSteps - model name Asus Proart P16 WH7606WP Ryzen Aı 9 HX370 64GB Ddr5 4tb+4tb SSD 8GB/RTX5070 16.0-Inch, 4K (3840 x 2400) OLED 0.2ms Dokunmatik Ekran Windows 11 Pro Taşınabilir Bilgisayar WME020P08+ZETTAÇANTA
+2025-06-13 12:45:59 [main] INFO  steps.BaseSteps - Swiping to find more elements located by By.id: com.akakce.akakce:id/card. Swipe count: 1
+2025-06-13 12:46:00 [main] INFO  steps.BaseSteps - Completed 1 swipe(s) for elements located by By.id: com.akakce.akakce:id/card
+2025-06-13 12:46:03 [main] INFO  steps.BaseSteps - Adding to product list. list size 10. 
+2025-06-13 12:46:03 [main] INFO  steps.BaseSteps - model name Asus Proart P16 WH7606WP Ryzen Aı 9 HX370 64GB Ddr5 4tb+4tb SSD 8GB/RTX5070 16.0-Inch, 4K (3840 x 2400) OLED 0.2ms Dokunmatik Ekran Windows 11 Home Taşınabilir Bilgisayar WME020H08+ZETTAÇANTA
+2025-06-13 12:46:06 [main] INFO  steps.BaseSteps - Clicked on element at reverse index 1 (actual index 4) located by By.id: com.akakce.akakce:id/card
+2025-06-13 12:46:10 [main] WARN  steps.BaseSteps - Swipe 1 did not reveal element located by By.id: com.akakce.akakce:id/detailBtnLayout. Swiping again...
+2025-06-13 12:46:13 [main] INFO  steps.BaseSteps - Element located by By.id: com.akakce.akakce:id/detailBtnLayout is now visible after 1 swipe(s).
+2025-06-13 12:46:13 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/detailBtnLayout
+2025-06-13 12:46:16 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/detailBtnLayout
+2025-06-13 12:46:16 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.xpath: //android.view.View[@content-desc="Satıcıya Git"]
+2025-06-13 12:46:22 [main] INFO  steps.BaseSteps - Element is visible: By.xpath: //android.view.View[@content-desc="Satıcıya Git"]
+2025-06-13 12:48:01 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-13 12:48:06 [main] INFO  steps.BaseSteps - Element is visible: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-13 12:48:06 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-13 12:48:09 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-13 12:48:09 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/searchTextView
+2025-06-13 12:48:12 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/searchTextView
+2025-06-13 12:48:15 [main] INFO  steps.BaseSteps - Sent keys 'Laptop' to element located by: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 12:48:15 [main] INFO  steps.BaseSteps - ENTER key was sent using Actions.
+2025-06-13 12:48:15 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 12:48:26 [main] WARN  steps.BaseSteps - Element is not visible within the timeout: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 12:48:26 [main] INFO  steps.BaseSteps - ENTER key was sent using Actions.
+2025-06-13 12:48:26 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 12:48:37 [main] WARN  steps.BaseSteps - Element is not visible within the timeout: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 12:48:37 [main] INFO  steps.BaseSteps - ENTER key was sent using Actions.
+2025-06-13 12:48:37 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 12:48:50 [main] WARN  steps.BaseSteps - Element is not visible within the timeout: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 12:48:50 [main] INFO  steps.BaseSteps - ENTER key was sent using Actions.
+2025-06-13 12:48:50 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 12:49:01 [main] WARN  steps.BaseSteps - Element is not visible within the timeout: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 12:49:01 [main] INFO  steps.BaseSteps - ENTER key was sent using Actions.
+2025-06-13 12:49:01 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 12:49:12 [main] WARN  steps.BaseSteps - Element is not visible within the timeout: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 12:49:12 [main] INFO  steps.BaseSteps - ENTER key was sent using Actions.
+2025-06-13 12:49:12 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 12:49:22 [main] WARN  steps.BaseSteps - Element is not visible within the timeout: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 12:49:22 [main] INFO  steps.BaseSteps - ENTER key was sent using Actions.
+2025-06-13 12:49:22 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 12:49:34 [main] WARN  steps.BaseSteps - Element is not visible within the timeout: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 12:49:34 [main] INFO  steps.BaseSteps - ENTER key was sent using Actions.
+2025-06-13 12:49:34 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 12:49:45 [main] WARN  steps.BaseSteps - Element is not visible within the timeout: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 12:49:45 [main] INFO  steps.BaseSteps - ENTER key was sent using Actions.
+2025-06-13 12:49:45 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 12:49:56 [main] WARN  steps.BaseSteps - Element is not visible within the timeout: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 12:49:56 [main] INFO  steps.BaseSteps - ENTER key was sent using Actions.
+2025-06-13 12:49:56 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 12:50:07 [main] WARN  steps.BaseSteps - Element is not visible within the timeout: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 12:50:07 [main] INFO  steps.BaseSteps - ENTER key was sent using Actions.
+2025-06-13 12:50:07 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 12:50:17 [main] WARN  steps.BaseSteps - Element is not visible within the timeout: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 12:50:17 [main] INFO  steps.BaseSteps - ENTER key was sent using Actions.
+2025-06-13 12:50:17 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 12:50:27 [main] WARN  steps.BaseSteps - Element is not visible within the timeout: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 12:50:27 [main] INFO  steps.BaseSteps - ENTER key was sent using Actions.
+2025-06-13 12:50:27 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 12:50:39 [main] WARN  steps.BaseSteps - Element is not visible within the timeout: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 12:50:39 [main] INFO  steps.BaseSteps - ENTER key was sent using Actions.
+2025-06-13 12:50:39 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 12:51:59 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-13 12:52:04 [main] INFO  steps.BaseSteps - Element is visible: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-13 12:52:04 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-13 12:52:07 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-13 12:52:07 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/searchTextView
+2025-06-13 12:52:11 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/searchTextView
+2025-06-13 12:52:13 [main] INFO  steps.BaseSteps - Sent keys 'Laptop' to element located by: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 12:52:15 [main] INFO  steps.BaseSteps - ENTER key was sent using AndroidDriver pressKey method.
+2025-06-13 12:52:15 [main] INFO  steps.BaseSteps - ENTER key was sent using Actions.
+2025-06-13 12:52:15 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 12:52:18 [main] INFO  steps.BaseSteps - Element is visible: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 12:52:23 [main] WARN  steps.BaseSteps - Swipe 1 did not reveal element located by By.id: com.akakce.akakce:id/filterArea. Swiping again...
+2025-06-13 12:52:27 [main] INFO  steps.BaseSteps - Element located by By.id: com.akakce.akakce:id/filterArea is now visible after 1 swipe(s).
+2025-06-13 12:52:27 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/filterArea
+2025-06-13 12:52:28 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/filterArea
+2025-06-13 12:52:41 [main] WARN  steps.BaseSteps - Swipe 1 did not reveal element located by By.xpath: //android.widget.TextView[@text="4K"]. Swiping again...
+2025-06-13 12:52:49 [main] INFO  steps.BaseSteps - Element located by By.xpath: //android.widget.TextView[@text="4K"] is now visible after 1 swipe(s).
+2025-06-13 12:52:49 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.xpath: //android.widget.TextView[@text="4K"]
+2025-06-13 12:52:57 [main] INFO  steps.BaseSteps - Clicked on element: By.xpath: //android.widget.TextView[@text="4K"]
+2025-06-13 12:52:57 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/apply
+2025-06-13 12:53:01 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/apply
+2025-06-13 12:53:01 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/sortArea
+2025-06-13 12:53:03 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/sortArea
+2025-06-13 12:53:03 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.xpath: //android.widget.TextView[@resource-id="com.akakce.akakce:id/sort_name" and @text="En Yüksek Fiyat"]
+2025-06-13 12:53:05 [main] INFO  steps.BaseSteps - Clicked on element: By.xpath: //android.widget.TextView[@resource-id="com.akakce.akakce:id/sort_name" and @text="En Yüksek Fiyat"]
+2025-06-13 12:53:13 [main] INFO  steps.BaseSteps - Swiping to find more elements located by By.id: com.akakce.akakce:id/card. Swipe count: 1
+2025-06-13 12:53:14 [main] INFO  steps.BaseSteps - Completed 1 swipe(s) for elements located by By.id: com.akakce.akakce:id/card
+2025-06-13 12:53:20 [main] INFO  steps.BaseSteps - Adding to product list. list size 4. 
+2025-06-13 12:53:20 [main] INFO  steps.BaseSteps - model name Lenovo Thinkpad P16 Gen 2 I9 13950HX 128GB Ram 2 Tb SSD Rtx 5000 Ada 16" 4K - Gri
+2025-06-13 12:53:22 [main] INFO  steps.BaseSteps - Swiping to find more elements located by By.id: com.akakce.akakce:id/card. Swipe count: 1
+2025-06-13 12:53:23 [main] INFO  steps.BaseSteps - Completed 1 swipe(s) for elements located by By.id: com.akakce.akakce:id/card
+2025-06-13 12:53:28 [main] INFO  steps.BaseSteps - Adding to product list. list size 5. 
+2025-06-13 12:53:28 [main] INFO  steps.BaseSteps - model name Monster Markut M7 V6.1.2 i9-13980HX 64 GB 2 TB SSD RTX3500 Ada 17.3" FreeDOS 4K Taşınabilir İş İstasyonu
+2025-06-13 12:53:32 [main] INFO  steps.BaseSteps - Swiping to find more elements located by By.id: com.akakce.akakce:id/card. Swipe count: 1
+2025-06-13 12:53:33 [main] INFO  steps.BaseSteps - Completed 1 swipe(s) for elements located by By.id: com.akakce.akakce:id/card
+2025-06-13 12:53:42 [main] INFO  steps.BaseSteps - Swiping to find more elements located by By.id: com.akakce.akakce:id/card. Swipe count: 1
+2025-06-13 12:53:43 [main] INFO  steps.BaseSteps - Completed 1 swipe(s) for elements located by By.id: com.akakce.akakce:id/card
+2025-06-13 12:53:48 [main] INFO  steps.BaseSteps - Adding to product list. list size 6. 
+2025-06-13 12:53:48 [main] INFO  steps.BaseSteps - model name Monster Markut M7 V6.1.1 i9-13980HX 32 GB 1 TB SSD RTX3500 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 12:53:52 [main] INFO  steps.BaseSteps - Swiping to find more elements located by By.id: com.akakce.akakce:id/card. Swipe count: 1
+2025-06-13 12:53:52 [main] INFO  steps.BaseSteps - Completed 1 swipe(s) for elements located by By.id: com.akakce.akakce:id/card
+2025-06-13 12:53:58 [main] INFO  steps.BaseSteps - Adding to product list. list size 7. 
+2025-06-13 12:53:58 [main] INFO  steps.BaseSteps - model name Monster Markut M7 V6.1 i9-13980HX 32 GB 1 TB SSD RTX3500 Ada 17.3" FreeDOS 4K Taşınabilir İş İstasyonu
+2025-06-13 12:54:01 [main] INFO  steps.BaseSteps - Swiping to find more elements located by By.id: com.akakce.akakce:id/card. Swipe count: 1
+2025-06-13 12:54:02 [main] INFO  steps.BaseSteps - Completed 1 swipe(s) for elements located by By.id: com.akakce.akakce:id/card
+2025-06-13 12:54:06 [main] INFO  steps.BaseSteps - Adding to product list. list size 8. 
+2025-06-13 12:54:06 [main] INFO  steps.BaseSteps - model name Dell Precision 7680 I9 13950HX 64GB Ram Rtx Ada 5000 16GB 16" 4K Touch W11 Ingilizce Klavye - Gri
+2025-06-13 12:54:09 [main] INFO  steps.BaseSteps - Swiping to find more elements located by By.id: com.akakce.akakce:id/card. Swipe count: 1
+2025-06-13 12:54:10 [main] INFO  steps.BaseSteps - Completed 1 swipe(s) for elements located by By.id: com.akakce.akakce:id/card
+2025-06-13 12:54:14 [main] INFO  steps.BaseSteps - Adding to product list. list size 9. 
+2025-06-13 12:54:14 [main] INFO  steps.BaseSteps - model name Asus Proart P16 WH7606WP Ryzen Aı 9 HX370 64GB Ddr5 4tb+4tb SSD 8GB/RTX5070 16.0-Inch, 4K (3840 x 2400) OLED 0.2ms Dokunmatik Ekran Windows 11 Pro Taşınabilir Bilgisayar WME020P08+ZETTAÇANTA
+2025-06-13 12:54:18 [main] INFO  steps.BaseSteps - Swiping to find more elements located by By.id: com.akakce.akakce:id/card. Swipe count: 1
+2025-06-13 12:54:18 [main] INFO  steps.BaseSteps - Completed 1 swipe(s) for elements located by By.id: com.akakce.akakce:id/card
+2025-06-13 12:54:22 [main] INFO  steps.BaseSteps - Adding to product list. list size 10. 
+2025-06-13 12:54:22 [main] INFO  steps.BaseSteps - model name Asus Proart P16 WH7606WP Ryzen Aı 9 HX370 64GB Ddr5 4tb+4tb SSD 8GB/RTX5070 16.0-Inch, 4K (3840 x 2400) OLED 0.2ms Dokunmatik Ekran Windows 11 Home Taşınabilir Bilgisayar WME020H08+ZETTAÇANTA
+2025-06-13 12:58:28 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-13 12:58:34 [main] INFO  steps.BaseSteps - Element is visible: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-13 12:58:34 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-13 12:58:35 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-13 12:58:35 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/searchTextView
+2025-06-13 12:58:40 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/searchTextView
+2025-06-13 12:58:42 [main] INFO  steps.BaseSteps - Sent keys 'Laptop' to element located by: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 12:58:44 [main] INFO  steps.BaseSteps - ENTER key was sent using AndroidDriver pressKey method.
+2025-06-13 12:58:44 [main] INFO  steps.BaseSteps - ENTER key was sent using Actions.
+2025-06-13 12:58:44 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 12:58:54 [main] WARN  steps.BaseSteps - Element is not visible within the timeout: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 12:58:55 [main] INFO  steps.BaseSteps - ENTER key was sent using AndroidDriver pressKey method.
+2025-06-13 12:58:55 [main] INFO  steps.BaseSteps - ENTER key was sent using Actions.
+2025-06-13 12:58:55 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 12:59:05 [main] WARN  steps.BaseSteps - Element is not visible within the timeout: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 12:59:05 [main] INFO  steps.BaseSteps - ENTER key was sent using AndroidDriver pressKey method.
+2025-06-13 12:59:05 [main] INFO  steps.BaseSteps - ENTER key was sent using Actions.
+2025-06-13 12:59:05 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 12:59:17 [main] WARN  steps.BaseSteps - Element is not visible within the timeout: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 12:59:17 [main] INFO  steps.BaseSteps - ENTER key was sent using AndroidDriver pressKey method.
+2025-06-13 12:59:17 [main] INFO  steps.BaseSteps - ENTER key was sent using Actions.
+2025-06-13 12:59:17 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 12:59:28 [main] WARN  steps.BaseSteps - Element is not visible within the timeout: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 12:59:29 [main] INFO  steps.BaseSteps - ENTER key was sent using AndroidDriver pressKey method.
+2025-06-13 12:59:29 [main] INFO  steps.BaseSteps - ENTER key was sent using Actions.
+2025-06-13 12:59:29 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 12:59:39 [main] WARN  steps.BaseSteps - Element is not visible within the timeout: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 12:59:39 [main] INFO  steps.BaseSteps - ENTER key was sent using AndroidDriver pressKey method.
+2025-06-13 12:59:39 [main] INFO  steps.BaseSteps - ENTER key was sent using Actions.
+2025-06-13 12:59:39 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 13:01:02 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-13 13:01:07 [main] INFO  steps.BaseSteps - Element is visible: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-13 13:01:07 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-13 13:01:11 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-13 13:01:11 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/searchTextView
+2025-06-13 13:01:14 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/searchTextView
+2025-06-13 13:01:17 [main] INFO  steps.BaseSteps - Sent keys 'Laptop' to element located by: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 13:01:21 [main] INFO  steps.BaseSteps - ENTER key was sent to element located by: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 13:01:21 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 13:01:32 [main] WARN  steps.BaseSteps - Element is not visible within the timeout: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 13:01:34 [main] INFO  steps.BaseSteps - ENTER key was sent to element located by: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 13:01:34 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 13:17:38 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-13 13:17:44 [main] INFO  steps.BaseSteps - Element is visible: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-13 13:17:44 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-13 13:17:45 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-13 13:17:45 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/searchTextView
+2025-06-13 13:17:48 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/searchTextView
+2025-06-13 13:17:48 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 13:17:51 [main] INFO  steps.BaseSteps - Clicked on element: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 13:17:54 [main] INFO  steps.BaseSteps - Sent keys 'Laptop' to element located by: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 13:17:54 [main] INFO  steps.BaseSteps - ENTER key was sent using Actions.
+2025-06-13 13:17:54 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 13:18:05 [main] WARN  steps.BaseSteps - Element is not visible within the timeout: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 13:18:05 [main] INFO  steps.BaseSteps - ENTER key was sent using Actions.
+2025-06-13 13:18:05 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 13:18:17 [main] WARN  steps.BaseSteps - Element is not visible within the timeout: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 13:18:17 [main] INFO  steps.BaseSteps - ENTER key was sent using Actions.
+2025-06-13 13:18:17 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 13:18:29 [main] WARN  steps.BaseSteps - Element is not visible within the timeout: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 13:18:29 [main] INFO  steps.BaseSteps - ENTER key was sent using Actions.
+2025-06-13 13:18:29 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 13:18:39 [main] WARN  steps.BaseSteps - Element is not visible within the timeout: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 13:18:40 [main] INFO  steps.BaseSteps - ENTER key was sent using Actions.
+2025-06-13 13:18:40 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 13:18:51 [main] WARN  steps.BaseSteps - Element is not visible within the timeout: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 13:18:51 [main] INFO  steps.BaseSteps - ENTER key was sent using Actions.
+2025-06-13 13:18:51 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 13:19:03 [main] WARN  steps.BaseSteps - Element is not visible within the timeout: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 13:19:03 [main] INFO  steps.BaseSteps - ENTER key was sent using Actions.
+2025-06-13 13:19:03 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 13:19:14 [main] WARN  steps.BaseSteps - Element is not visible within the timeout: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 13:19:14 [main] INFO  steps.BaseSteps - ENTER key was sent using Actions.
+2025-06-13 13:19:14 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 13:19:25 [main] WARN  steps.BaseSteps - Element is not visible within the timeout: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 13:19:25 [main] INFO  steps.BaseSteps - ENTER key was sent using Actions.
+2025-06-13 13:19:25 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 13:19:28 [main] INFO  steps.BaseSteps - Element is visible: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 13:19:34 [main] WARN  steps.BaseSteps - Swipe 1 did not reveal element located by By.id: com.akakce.akakce:id/filterArea. Swiping again...
+2025-06-13 13:20:03 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-13 13:20:08 [main] INFO  steps.BaseSteps - Element is visible: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-13 13:20:08 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-13 13:20:10 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-13 13:20:10 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/searchTextView
+2025-06-13 13:20:13 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/searchTextView
+2025-06-13 13:20:16 [main] INFO  steps.BaseSteps - Sent keys 'Laptop' to element located by: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 13:20:16 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 13:20:20 [main] INFO  steps.BaseSteps - Clicked on element: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 13:20:21 [main] INFO  steps.BaseSteps - ENTER key was sent using Actions.
+2025-06-13 13:20:21 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 13:20:24 [main] INFO  steps.BaseSteps - Element is visible: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 13:20:30 [main] INFO  steps.BaseSteps - Element located by By.id: com.akakce.akakce:id/filterArea is now visible after 0 swipe(s).
+2025-06-13 13:20:30 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/filterArea
+2025-06-13 13:20:44 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-13 13:20:49 [main] INFO  steps.BaseSteps - Element is visible: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-13 13:20:49 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-13 13:20:50 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-13 13:20:50 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/searchTextView
+2025-06-13 13:20:55 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/searchTextView
+2025-06-13 13:20:57 [main] INFO  steps.BaseSteps - Sent keys 'Laptop' to element located by: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 13:20:57 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 13:21:00 [main] INFO  steps.BaseSteps - Clicked on element: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 13:21:01 [main] INFO  steps.BaseSteps - ENTER key was sent using Actions.
+2025-06-13 13:21:01 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 13:21:12 [main] WARN  steps.BaseSteps - Element is not visible within the timeout: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 13:21:12 [main] INFO  steps.BaseSteps - ENTER key was sent using Actions.
+2025-06-13 13:21:12 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 13:21:23 [main] WARN  steps.BaseSteps - Element is not visible within the timeout: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 13:21:23 [main] INFO  steps.BaseSteps - ENTER key was sent using Actions.
+2025-06-13 13:21:23 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 13:21:57 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-13 13:22:02 [main] INFO  steps.BaseSteps - Element is visible: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-13 13:22:02 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-13 13:22:05 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-13 13:22:05 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/searchTextView
+2025-06-13 13:22:07 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/searchTextView
+2025-06-13 13:22:11 [main] INFO  steps.BaseSteps - Sent keys 'Laptop' to element located by: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 13:22:11 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 13:22:14 [main] INFO  steps.BaseSteps - Clicked on element: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 13:22:14 [main] INFO  steps.BaseSteps - ENTER key was sent using Actions.
+2025-06-13 13:22:14 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 13:22:25 [main] WARN  steps.BaseSteps - Element is not visible within the timeout: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 13:22:25 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 13:22:28 [main] INFO  steps.BaseSteps - Clicked on element: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 13:22:28 [main] INFO  steps.BaseSteps - ENTER key was sent using Actions.
+2025-06-13 13:22:28 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 13:22:33 [main] ERROR steps.BaseSteps - Unexpected error while checking element visibility: By.id: com.akakce.akakce:id/campaignTitle
+org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to the remote server. Original error: socket hang up
+Build info: version: '4.33.0', revision: '2c6aaad03a'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [068fd352-295b-4233-91e0-cd9739f2d633, findElement {using=id, value=com.akakce.akakce:id/campaignTitle}]
+Capabilities {appium:appActivity: com.akakce.akakce.ui.splash..., appium:appPackage: com.akakce.akakce, appium:autoGrantPermissions: true, appium:automationName: UiAutomator2, appium:databaseEnabled: false, appium:desired: {appActivity: com.akakce.akakce.ui.splash..., appPackage: com.akakce.akakce, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, noReset: false, platformName: ANDROID, platformVersion: 16.0}, appium:deviceApiLevel: 36, appium:deviceManufacturer: Google, appium:deviceModel: sdk_gphone64_x86_64, appium:deviceName: emulator-5554, appium:deviceScreenDensity: 420, appium:deviceScreenSize: 1080x2400, appium:deviceUDID: emulator-5554, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:noReset: false, appium:pixelRatio: 2.625, appium:platformVersion: 16, appium:statBarHeight: 63, appium:takesScreenshot: true, appium:viewportRect: {height: 2337, left: 0, top: 63, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: 068fd352-295b-4233-91e0-cd9739f2d633
+	at jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:484) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.33.0.jar:?]
+	at io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:237) ~[java-client-9.3.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:544) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:367) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:361) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.support.ui.ExpectedConditions$6.apply(ExpectedConditions.java:171) ~[selenium-support-4.33.0.jar:?]
+	at org.openqa.selenium.support.ui.ExpectedConditions$6.apply(ExpectedConditions.java:168) ~[selenium-support-4.33.0.jar:?]
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:203) ~[selenium-support-4.33.0.jar:?]
+	at steps.BaseSteps.findElement(BaseSteps.java:37) ~[test-classes/:?]
+	at steps.BaseSteps.isDisplayed(BaseSteps.java:76) ~[test-classes/:?]
+	at steps.SearchSteps.clickAndSetFilter(SearchSteps.java:24) ~[test-classes/:?]
+	at stepDefinitions.SearchStepDef.userAppliesFiltersOnProductList(SearchStepDef.java:19) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:578) ~[?:?]
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66) ~[cucumber-java-7.15.0.jar:7.15.0]
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24) ~[cucumber-java-7.15.0.jar:7.15.0]
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47) ~[cucumber-java-7.15.0.jar:7.15.0]
+	at io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29) ~[cucumber-java-7.15.0.jar:7.15.0]
+	at io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66) ~[cucumber-core-7.15.0.jar:7.15.0]
+	at io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63) ~[cucumber-core-7.15.0.jar:7.15.0]
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10) ~[cucumber-core-7.15.0.jar:7.15.0]
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:84) ~[cucumber-core-7.15.0.jar:7.15.0]
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:56) ~[cucumber-core-7.15.0.jar:7.15.0]
+	at io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51) ~[cucumber-core-7.15.0.jar:7.15.0]
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:84) ~[cucumber-core-7.15.0.jar:7.15.0]
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:75) ~[cucumber-core-7.15.0.jar:7.15.0]
+	at io.cucumber.junit.PickleRunners$NoStepDescriptions.lambda$run$0(PickleRunners.java:151) ~[cucumber-junit-7.15.0.jar:7.15.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:137) ~[cucumber-core-7.15.0.jar:7.15.0]
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23) ~[cucumber-core-7.15.0.jar:7.15.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:137) ~[cucumber-core-7.15.0.jar:7.15.0]
+	at io.cucumber.junit.PickleRunners$NoStepDescriptions.run(PickleRunners.java:148) ~[cucumber-junit-7.15.0.jar:7.15.0]
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:144) ~[cucumber-junit-7.15.0.jar:7.15.0]
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:28) ~[cucumber-junit-7.15.0.jar:7.15.0]
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331) ~[junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79) ~[junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329) ~[junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66) ~[junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293) ~[junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306) ~[junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413) ~[junit-4.13.2.jar:4.13.2]
+	at io.cucumber.junit.FeatureRunner.run(FeatureRunner.java:137) ~[cucumber-junit-7.15.0.jar:7.15.0]
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:196) ~[cucumber-junit-7.15.0.jar:7.15.0]
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:89) ~[cucumber-junit-7.15.0.jar:7.15.0]
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331) ~[junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79) ~[junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329) ~[junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66) ~[junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293) ~[junit-4.13.2.jar:4.13.2]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runFeatures$6(CucumberExecutionContext.java:148) ~[cucumber-core-7.15.0.jar:7.15.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.execute(CucumberExecutionContext.java:163) [cucumber-core-7.15.0.jar:7.15.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runFeatures(CucumberExecutionContext.java:146) [cucumber-core-7.15.0.jar:7.15.0]
+	at io.cucumber.junit.Cucumber$StartAndFinishTestRun.evaluate(Cucumber.java:226) [cucumber-junit-7.15.0.jar:7.15.0]
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306) [junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413) [junit-4.13.2.jar:4.13.2]
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137) [junit-4.13.2.jar:4.13.2]
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:69) [junit-rt.jar:?]
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater$1.execute(IdeaTestRunner.java:38) [junit-rt.jar:?]
+	at com.intellij.rt.execution.junit.TestsRepeater.repeat(TestsRepeater.java:11) [idea_rt.jar:?]
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:35) [junit-rt.jar:?]
+	at com.intellij.rt.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:231) [junit-rt.jar:?]
+	at com.intellij.rt.junit.JUnitStarter.main(JUnitStarter.java:55) [junit-rt.jar:?]
+2025-06-13 13:22:33 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 13:22:33 [main] ERROR steps.BaseSteps - Unexpected error while clicking element: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: 'POST /element' cannot be proxied to UiAutomator2 server because the instrumentation process is not running (probably crashed). Check the server log and/or the logcat output for more details
+Build info: version: '4.33.0', revision: '2c6aaad03a'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [068fd352-295b-4233-91e0-cd9739f2d633, findElement {using=xpath, value=(//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]}]
+Capabilities {appium:appActivity: com.akakce.akakce.ui.splash..., appium:appPackage: com.akakce.akakce, appium:autoGrantPermissions: true, appium:automationName: UiAutomator2, appium:databaseEnabled: false, appium:desired: {appActivity: com.akakce.akakce.ui.splash..., appPackage: com.akakce.akakce, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, noReset: false, platformName: ANDROID, platformVersion: 16.0}, appium:deviceApiLevel: 36, appium:deviceManufacturer: Google, appium:deviceModel: sdk_gphone64_x86_64, appium:deviceName: emulator-5554, appium:deviceScreenDensity: 420, appium:deviceScreenSize: 1080x2400, appium:deviceUDID: emulator-5554, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:noReset: false, appium:pixelRatio: 2.625, appium:platformVersion: 16, appium:statBarHeight: 63, appium:takesScreenshot: true, appium:viewportRect: {height: 2337, left: 0, top: 63, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: 068fd352-295b-4233-91e0-cd9739f2d633
+	at jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:484) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.33.0.jar:?]
+	at io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:237) ~[java-client-9.3.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:544) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:367) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:361) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.support.ui.ExpectedConditions$6.apply(ExpectedConditions.java:171) ~[selenium-support-4.33.0.jar:?]
+	at org.openqa.selenium.support.ui.ExpectedConditions$6.apply(ExpectedConditions.java:168) ~[selenium-support-4.33.0.jar:?]
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:203) ~[selenium-support-4.33.0.jar:?]
+	at steps.BaseSteps.findElement(BaseSteps.java:37) ~[test-classes/:?]
+	at steps.BaseSteps.clickElement(BaseSteps.java:49) ~[test-classes/:?]
+	at steps.SearchSteps.clickAndSetFilter(SearchSteps.java:25) ~[test-classes/:?]
+	at stepDefinitions.SearchStepDef.userAppliesFiltersOnProductList(SearchStepDef.java:19) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:578) ~[?:?]
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66) ~[cucumber-java-7.15.0.jar:7.15.0]
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24) ~[cucumber-java-7.15.0.jar:7.15.0]
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47) ~[cucumber-java-7.15.0.jar:7.15.0]
+	at io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29) ~[cucumber-java-7.15.0.jar:7.15.0]
+	at io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66) ~[cucumber-core-7.15.0.jar:7.15.0]
+	at io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63) ~[cucumber-core-7.15.0.jar:7.15.0]
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10) ~[cucumber-core-7.15.0.jar:7.15.0]
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:84) ~[cucumber-core-7.15.0.jar:7.15.0]
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:56) ~[cucumber-core-7.15.0.jar:7.15.0]
+	at io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51) ~[cucumber-core-7.15.0.jar:7.15.0]
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:84) ~[cucumber-core-7.15.0.jar:7.15.0]
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:75) ~[cucumber-core-7.15.0.jar:7.15.0]
+	at io.cucumber.junit.PickleRunners$NoStepDescriptions.lambda$run$0(PickleRunners.java:151) ~[cucumber-junit-7.15.0.jar:7.15.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:137) ~[cucumber-core-7.15.0.jar:7.15.0]
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23) ~[cucumber-core-7.15.0.jar:7.15.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:137) ~[cucumber-core-7.15.0.jar:7.15.0]
+	at io.cucumber.junit.PickleRunners$NoStepDescriptions.run(PickleRunners.java:148) ~[cucumber-junit-7.15.0.jar:7.15.0]
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:144) ~[cucumber-junit-7.15.0.jar:7.15.0]
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:28) ~[cucumber-junit-7.15.0.jar:7.15.0]
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331) ~[junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79) ~[junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329) ~[junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66) ~[junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293) ~[junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306) ~[junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413) ~[junit-4.13.2.jar:4.13.2]
+	at io.cucumber.junit.FeatureRunner.run(FeatureRunner.java:137) ~[cucumber-junit-7.15.0.jar:7.15.0]
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:196) ~[cucumber-junit-7.15.0.jar:7.15.0]
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:89) ~[cucumber-junit-7.15.0.jar:7.15.0]
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331) ~[junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79) ~[junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329) ~[junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66) ~[junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293) ~[junit-4.13.2.jar:4.13.2]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runFeatures$6(CucumberExecutionContext.java:148) ~[cucumber-core-7.15.0.jar:7.15.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.execute(CucumberExecutionContext.java:163) [cucumber-core-7.15.0.jar:7.15.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runFeatures(CucumberExecutionContext.java:146) [cucumber-core-7.15.0.jar:7.15.0]
+	at io.cucumber.junit.Cucumber$StartAndFinishTestRun.evaluate(Cucumber.java:226) [cucumber-junit-7.15.0.jar:7.15.0]
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306) [junit-4.13.2.jar:4.13.2]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413) [junit-4.13.2.jar:4.13.2]
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137) [junit-4.13.2.jar:4.13.2]
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:69) [junit-rt.jar:?]
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater$1.execute(IdeaTestRunner.java:38) [junit-rt.jar:?]
+	at com.intellij.rt.execution.junit.TestsRepeater.repeat(TestsRepeater.java:11) [idea_rt.jar:?]
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:35) [junit-rt.jar:?]
+	at com.intellij.rt.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:231) [junit-rt.jar:?]
+	at com.intellij.rt.junit.JUnitStarter.main(JUnitStarter.java:55) [junit-rt.jar:?]
+2025-06-13 13:24:12 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-13 13:24:17 [main] INFO  steps.BaseSteps - Element is visible: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-13 13:24:17 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-13 13:24:20 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-13 13:24:20 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/searchTextView
+2025-06-13 13:24:23 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/searchTextView
+2025-06-13 13:24:23 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 13:24:24 [main] INFO  steps.BaseSteps - Clicked on element: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 13:24:28 [main] INFO  steps.BaseSteps - Sent keys 'Laptop' to element located by: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 13:24:28 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 13:24:31 [main] INFO  steps.BaseSteps - Clicked on element: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 13:24:32 [main] INFO  steps.BaseSteps - ENTER key was sent using Actions.
+2025-06-13 13:24:32 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 13:24:44 [main] WARN  steps.BaseSteps - Element is not visible within the timeout: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 13:24:44 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 13:24:48 [main] INFO  steps.BaseSteps - Clicked on element: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 13:24:48 [main] INFO  steps.BaseSteps - ENTER key was sent using Actions.
+2025-06-13 13:24:48 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 13:24:51 [main] INFO  steps.BaseSteps - Element is visible: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 13:24:54 [main] WARN  steps.BaseSteps - Swipe 1 did not reveal element located by By.id: com.akakce.akakce:id/filterArea. Swiping again...
+2025-06-13 13:24:57 [main] INFO  steps.BaseSteps - Element located by By.id: com.akakce.akakce:id/filterArea is now visible after 1 swipe(s).
+2025-06-13 13:24:57 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/filterArea
+2025-06-13 13:25:03 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/filterArea
+2025-06-13 13:25:05 [main] WARN  steps.BaseSteps - Swipe 1 did not reveal element located by By.xpath: //android.widget.TextView[@text="4K"]. Swiping again...
+2025-06-13 13:25:10 [main] INFO  steps.BaseSteps - Element located by By.xpath: //android.widget.TextView[@text="4K"] is now visible after 1 swipe(s).
+2025-06-13 13:25:10 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.xpath: //android.widget.TextView[@text="4K"]
+2025-06-13 13:25:16 [main] INFO  steps.BaseSteps - Clicked on element: By.xpath: //android.widget.TextView[@text="4K"]
+2025-06-13 13:25:16 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/apply
+2025-06-13 13:25:19 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/apply
+2025-06-13 13:25:19 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/sortArea
+2025-06-13 13:25:21 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/sortArea
+2025-06-13 13:25:21 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.xpath: //android.widget.TextView[@resource-id="com.akakce.akakce:id/sort_name" and @text="En Yüksek Fiyat"]
+2025-06-13 13:25:24 [main] INFO  steps.BaseSteps - Clicked on element: By.xpath: //android.widget.TextView[@resource-id="com.akakce.akakce:id/sort_name" and @text="En Yüksek Fiyat"]
+2025-06-13 13:25:27 [main] INFO  steps.BaseSteps - Swiping to find more elements located by By.id: com.akakce.akakce:id/card. Swipe count: 1
+2025-06-13 13:25:28 [main] INFO  steps.BaseSteps - Completed 1 swipe(s) for elements located by By.id: com.akakce.akakce:id/card
+2025-06-13 13:25:32 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.2.2 i9-13980HX 64 GB 2 TB SSD RTX5000 Ada 17.3" FreeDOS 4K Taşınabilir İş İstasyonu
+2025-06-13 13:25:32 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.2.1 i9-13980HX 32 GB 1 TB SSD RTX5000 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 13:25:32 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1.4 i9-13980HX 128 GB 4 TB SSD RTX3500 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 13:25:32 [main] INFO  steps.BaseSteps - Product added to list. Current list size: 4
+2025-06-13 13:25:32 [main] INFO  steps.BaseSteps - Added product name: Lenovo Thinkpad P16 Gen 2 I9 13950HX 128GB Ram 2 Tb SSD Rtx 5000 Ada 16" 4K - Gri
+2025-06-13 13:25:35 [main] INFO  steps.BaseSteps - Clicked on element at reverse index 1 (actual index 3) located by By.id: com.akakce.akakce:id/card
+2025-06-13 13:25:38 [main] WARN  steps.BaseSteps - Swipe 1 did not reveal element located by By.id: com.akakce.akakce:id/detailBtnLayout. Swiping again...
+2025-06-13 13:25:41 [main] INFO  steps.BaseSteps - Element located by By.id: com.akakce.akakce:id/detailBtnLayout is now visible after 1 swipe(s).
+2025-06-13 13:25:41 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/detailBtnLayout
+2025-06-13 13:25:42 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/detailBtnLayout
+2025-06-13 13:25:46 [main] INFO  steps.BaseSteps - Swiping to find more elements located by By.id: com.akakce.akakce:id/card. Swipe count: 1
+2025-06-13 13:25:47 [main] INFO  steps.BaseSteps - Completed 1 swipe(s) for elements located by By.id: com.akakce.akakce:id/card
+2025-06-13 13:25:51 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.2.1 i9-13980HX 32 GB 1 TB SSD RTX5000 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 13:25:52 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1.4 i9-13980HX 128 GB 4 TB SSD RTX3500 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 13:25:52 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Lenovo Thinkpad P16 Gen 2 I9 13950HX 128GB Ram 2 Tb SSD Rtx 5000 Ada 16" 4K - Gri
+2025-06-13 13:25:52 [main] INFO  steps.BaseSteps - Product added to list. Current list size: 5
+2025-06-13 13:25:52 [main] INFO  steps.BaseSteps - Added product name: Monster Markut M7 V6.1.3 i9-13980HX 64 GB 2 TB SSD RTX3500 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 13:25:52 [main] INFO  steps.BaseSteps - Product added to list. Current list size: 6
+2025-06-13 13:25:52 [main] INFO  steps.BaseSteps - Added product name: Monster Markut M7 V6.1.2 i9-13980HX 64 GB 2 TB SSD RTX3500 Ada 17.3" FreeDOS 4K Taşınabilir İş İstasyonu
+2025-06-13 13:25:55 [main] INFO  steps.BaseSteps - Clicked on element at reverse index 1 (actual index 4) located by By.id: com.akakce.akakce:id/card
+2025-06-13 13:25:56 [main] INFO  steps.BaseSteps - Element located by By.id: com.akakce.akakce:id/detailBtnLayout is now visible after 0 swipe(s).
+2025-06-13 13:25:56 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/detailBtnLayout
+2025-06-13 13:25:57 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/detailBtnLayout
+2025-06-13 13:25:59 [main] INFO  steps.BaseSteps - Swiping to find more elements located by By.id: com.akakce.akakce:id/card. Swipe count: 1
+2025-06-13 13:26:00 [main] INFO  steps.BaseSteps - Completed 1 swipe(s) for elements located by By.id: com.akakce.akakce:id/card
+2025-06-13 13:26:04 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.2.1 i9-13980HX 32 GB 1 TB SSD RTX5000 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 13:26:04 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1.4 i9-13980HX 128 GB 4 TB SSD RTX3500 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 13:26:04 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Lenovo Thinkpad P16 Gen 2 I9 13950HX 128GB Ram 2 Tb SSD Rtx 5000 Ada 16" 4K - Gri
+2025-06-13 13:26:04 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1.3 i9-13980HX 64 GB 2 TB SSD RTX3500 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 13:26:05 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1.2 i9-13980HX 64 GB 2 TB SSD RTX3500 Ada 17.3" FreeDOS 4K Taşınabilir İş İstasyonu
+2025-06-13 13:26:12 [main] INFO  steps.BaseSteps - Clicked on element at reverse index 1 (actual index 4) located by By.id: com.akakce.akakce:id/card
+2025-06-13 13:26:14 [main] INFO  steps.BaseSteps - Element located by By.id: com.akakce.akakce:id/detailBtnLayout is now visible after 0 swipe(s).
+2025-06-13 13:26:14 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/detailBtnLayout
+2025-06-13 13:26:16 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/detailBtnLayout
+2025-06-13 13:26:19 [main] INFO  steps.BaseSteps - Swiping to find more elements located by By.id: com.akakce.akakce:id/card. Swipe count: 1
+2025-06-13 13:26:19 [main] INFO  steps.BaseSteps - Completed 1 swipe(s) for elements located by By.id: com.akakce.akakce:id/card
+2025-06-13 13:26:23 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.2.1 i9-13980HX 32 GB 1 TB SSD RTX5000 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 13:26:23 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1.4 i9-13980HX 128 GB 4 TB SSD RTX3500 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 13:26:23 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Lenovo Thinkpad P16 Gen 2 I9 13950HX 128GB Ram 2 Tb SSD Rtx 5000 Ada 16" 4K - Gri
+2025-06-13 13:26:23 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1.3 i9-13980HX 64 GB 2 TB SSD RTX3500 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 13:26:23 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1.2 i9-13980HX 64 GB 2 TB SSD RTX3500 Ada 17.3" FreeDOS 4K Taşınabilir İş İstasyonu
+2025-06-13 13:26:26 [main] INFO  steps.BaseSteps - Clicked on element at reverse index 1 (actual index 4) located by By.id: com.akakce.akakce:id/card
+2025-06-13 13:26:27 [main] INFO  steps.BaseSteps - Element located by By.id: com.akakce.akakce:id/detailBtnLayout is now visible after 0 swipe(s).
+2025-06-13 13:26:27 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/detailBtnLayout
+2025-06-13 13:26:28 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/detailBtnLayout
+2025-06-13 13:26:31 [main] INFO  steps.BaseSteps - Swiping to find more elements located by By.id: com.akakce.akakce:id/card. Swipe count: 1
+2025-06-13 13:26:32 [main] INFO  steps.BaseSteps - Completed 1 swipe(s) for elements located by By.id: com.akakce.akakce:id/card
+2025-06-13 13:26:38 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.2.1 i9-13980HX 32 GB 1 TB SSD RTX5000 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 13:26:39 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1.4 i9-13980HX 128 GB 4 TB SSD RTX3500 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 13:26:39 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Lenovo Thinkpad P16 Gen 2 I9 13950HX 128GB Ram 2 Tb SSD Rtx 5000 Ada 16" 4K - Gri
+2025-06-13 13:26:39 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1.3 i9-13980HX 64 GB 2 TB SSD RTX3500 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 13:26:39 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1.2 i9-13980HX 64 GB 2 TB SSD RTX3500 Ada 17.3" FreeDOS 4K Taşınabilir İş İstasyonu
+2025-06-13 13:26:43 [main] INFO  steps.BaseSteps - Clicked on element at reverse index 1 (actual index 4) located by By.id: com.akakce.akakce:id/card
+2025-06-13 13:26:44 [main] INFO  steps.BaseSteps - Element located by By.id: com.akakce.akakce:id/detailBtnLayout is now visible after 0 swipe(s).
+2025-06-13 13:26:44 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/detailBtnLayout
+2025-06-13 13:26:46 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/detailBtnLayout
+2025-06-13 13:26:48 [main] INFO  steps.BaseSteps - Swiping to find more elements located by By.id: com.akakce.akakce:id/card. Swipe count: 1
+2025-06-13 13:26:49 [main] INFO  steps.BaseSteps - Completed 1 swipe(s) for elements located by By.id: com.akakce.akakce:id/card
+2025-06-13 13:28:29 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-13 13:28:34 [main] INFO  steps.BaseSteps - Element is visible: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-13 13:28:34 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-13 13:28:37 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-13 13:28:37 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/searchTextView
+2025-06-13 13:28:40 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/searchTextView
+2025-06-13 13:28:40 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 13:28:42 [main] INFO  steps.BaseSteps - Clicked on element: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 13:28:45 [main] INFO  steps.BaseSteps - Sent keys 'Laptop' to element located by: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 13:28:45 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 13:28:49 [main] INFO  steps.BaseSteps - Clicked on element: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 13:28:49 [main] INFO  steps.BaseSteps - ENTER key was sent using Actions.
+2025-06-13 13:28:49 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 13:29:01 [main] WARN  steps.BaseSteps - Element is not visible within the timeout: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 13:29:01 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 13:29:04 [main] INFO  steps.BaseSteps - Clicked on element: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 13:29:04 [main] INFO  steps.BaseSteps - ENTER key was sent using Actions.
+2025-06-13 13:29:04 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 13:29:15 [main] WARN  steps.BaseSteps - Element is not visible within the timeout: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 13:29:15 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 13:29:18 [main] INFO  steps.BaseSteps - Clicked on element: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 13:29:18 [main] INFO  steps.BaseSteps - ENTER key was sent using Actions.
+2025-06-13 13:29:18 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 13:29:30 [main] WARN  steps.BaseSteps - Element is not visible within the timeout: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 13:29:30 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 13:29:32 [main] INFO  steps.BaseSteps - Clicked on element: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 13:29:33 [main] INFO  steps.BaseSteps - ENTER key was sent using Actions.
+2025-06-13 13:29:33 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 13:29:36 [main] INFO  steps.BaseSteps - Element is visible: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 13:29:41 [main] WARN  steps.BaseSteps - Swipe 1 did not reveal element located by By.id: com.akakce.akakce:id/filterArea. Swiping again...
+2025-06-13 13:29:45 [main] INFO  steps.BaseSteps - Element located by By.id: com.akakce.akakce:id/filterArea is now visible after 1 swipe(s).
+2025-06-13 13:29:45 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/filterArea
+2025-06-13 13:29:57 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/filterArea
+2025-06-13 13:30:03 [main] WARN  steps.BaseSteps - Swipe 1 did not reveal element located by By.xpath: //android.widget.TextView[@text="4K"]. Swiping again...
+2025-06-13 13:30:11 [main] INFO  steps.BaseSteps - Element located by By.xpath: //android.widget.TextView[@text="4K"] is now visible after 1 swipe(s).
+2025-06-13 13:30:11 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.xpath: //android.widget.TextView[@text="4K"]
+2025-06-13 13:30:18 [main] INFO  steps.BaseSteps - Clicked on element: By.xpath: //android.widget.TextView[@text="4K"]
+2025-06-13 13:30:18 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/apply
+2025-06-13 13:30:22 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/apply
+2025-06-13 13:30:22 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/sortArea
+2025-06-13 13:30:26 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/sortArea
+2025-06-13 13:30:26 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.xpath: //android.widget.TextView[@resource-id="com.akakce.akakce:id/sort_name" and @text="En Yüksek Fiyat"]
+2025-06-13 13:30:28 [main] INFO  steps.BaseSteps - Clicked on element: By.xpath: //android.widget.TextView[@resource-id="com.akakce.akakce:id/sort_name" and @text="En Yüksek Fiyat"]
+2025-06-13 13:30:53 [main] INFO  steps.BaseSteps - Swiping to find more elements located by By.id: com.akakce.akakce:id/card. Swipe count: 1
+2025-06-13 13:30:53 [main] INFO  steps.BaseSteps - Completed 1 swipe(s) for elements located by By.id: com.akakce.akakce:id/card
+2025-06-13 13:31:18 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.2.2 i9-13980HX 64 GB 2 TB SSD RTX5000 Ada 17.3" FreeDOS 4K Taşınabilir İş İstasyonu
+2025-06-13 13:31:23 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.2.1 i9-13980HX 32 GB 1 TB SSD RTX5000 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 13:31:28 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1.4 i9-13980HX 128 GB 4 TB SSD RTX3500 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 13:31:38 [main] INFO  steps.BaseSteps - Product added to list. Current list size: 4
+2025-06-13 13:31:39 [main] INFO  steps.BaseSteps - Added product name: Lenovo Thinkpad P16 Gen 2 I9 13950HX 128GB Ram 2 Tb SSD Rtx 5000 Ada 16" 4K - Gri
+2025-06-13 13:32:19 [main] INFO  steps.BaseSteps - Clicked on element at reverse index 1 (actual index 4) located by By.id: com.akakce.akakce:id/card
+2025-06-13 13:32:26 [main] WARN  steps.BaseSteps - Swipe 1 did not reveal element located by By.id: com.akakce.akakce:id/detailBtnLayout. Swiping again...
+2025-06-13 13:32:59 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-13 13:33:04 [main] INFO  steps.BaseSteps - Element is visible: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-13 13:33:04 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-13 13:33:06 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-13 13:33:06 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/searchTextView
+2025-06-13 13:33:10 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/searchTextView
+2025-06-13 13:33:10 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 13:33:13 [main] INFO  steps.BaseSteps - Clicked on element: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 13:33:16 [main] INFO  steps.BaseSteps - Sent keys 'Laptop' to element located by: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 13:33:16 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 13:33:20 [main] INFO  steps.BaseSteps - Clicked on element: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 13:33:20 [main] INFO  steps.BaseSteps - ENTER key was sent using Actions.
+2025-06-13 13:33:20 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 13:33:32 [main] WARN  steps.BaseSteps - Element is not visible within the timeout: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 13:33:32 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 13:33:34 [main] ERROR steps.BaseSteps - Unexpected error while clicking element: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to the remote server. Original error: socket hang up
+Build info: version: '4.33.0', revision: '2c6aaad03a'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [3525bdc6-afbb-4a1f-9773-d331653a8f73, clickElement {id=00000000-0000-0162-ffff-ffff00000480}]
+Capabilities {appium:appActivity: com.akakce.akakce.ui.splash..., appium:appPackage: com.akakce.akakce, appium:autoGrantPermissions: true, appium:automationName: UiAutomator2, appium:databaseEnabled: false, appium:desired: {appActivity: com.akakce.akakce.ui.splash..., appPackage: com.akakce.akakce, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, noReset: false, platformName: ANDROID, platformVersion: 16.0}, appium:deviceApiLevel: 36, appium:deviceManufacturer: Google, appium:deviceModel: sdk_gphone64_x86_64, appium:deviceName: emulator-5554, appium:deviceScreenDensity: 420, appium:deviceScreenSize: 1080x2400, appium:deviceUDID: emulator-5554, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:noReset: false, appium:pixelRatio: 2.625, appium:platformVersion: 16, appium:statBarHeight: 63, appium:takesScreenshot: true, appium:viewportRect: {height: 2337, left: 0, top: 63, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Element: [[AndroidDriver:  on ANDROID (3525bdc6-afbb-4a1f-9773-d331653a8f73)] -> xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]]
+Session ID: 3525bdc6-afbb-4a1f-9773-d331653a8f73
+	at jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:484) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.33.0.jar:?]
+	at io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:237) ~[java-client-9.3.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:544) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:76) ~[selenium-remote-driver-4.33.0.jar:?]
+	at steps.BaseSteps.clickElement(BaseSteps.java:50) ~[test-classes/:?]
+	at steps.SearchSteps.clickAndSetFilter(SearchSteps.java:26) ~[test-classes/:?]
+	at stepDefinitions.SearchStepDef.userAppliesFiltersOnProductList(SearchStepDef.java:19) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:578) ~[?:?]
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66) ~[cucumber-java-7.15.0.jar:7.15.0]
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24) ~[cucumber-java-7.15.0.jar:7.15.0]
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47) ~[cucumber-java-7.15.0.jar:7.15.0]
+	at io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29) ~[cucumber-java-7.15.0.jar:7.15.0]
+	at io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66) ~[cucumber-core-7.15.0.jar:7.15.0]
+	at io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63) ~[cucumber-core-7.15.0.jar:7.15.0]
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10) ~[cucumber-core-7.15.0.jar:7.15.0]
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:84) ~[cucumber-core-7.15.0.jar:7.15.0]
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:56) ~[cucumber-core-7.15.0.jar:7.15.0]
+	at io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51) ~[cucumber-core-7.15.0.jar:7.15.0]
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:84) ~[cucumber-core-7.15.0.jar:7.15.0]
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:75) ~[cucumber-core-7.15.0.jar:7.15.0]
+	at io.cucumber.core.runtime.Runtime.lambda$executePickle$6(Runtime.java:107) ~[cucumber-core-7.15.0.jar:7.15.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:137) ~[cucumber-core-7.15.0.jar:7.15.0]
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23) ~[cucumber-core-7.15.0.jar:7.15.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:137) ~[cucumber-core-7.15.0.jar:7.15.0]
+	at io.cucumber.core.runtime.Runtime.lambda$executePickle$7(Runtime.java:107) ~[cucumber-core-7.15.0.jar:7.15.0]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:577) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at io.cucumber.core.runtime.Runtime$SameThreadExecutorService.execute(Runtime.java:235) ~[cucumber-core-7.15.0.jar:7.15.0]
+	at java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:123) ~[?:?]
+	at io.cucumber.core.runtime.Runtime.lambda$runFeatures$3(Runtime.java:89) ~[cucumber-core-7.15.0.jar:7.15.0]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197) ~[?:?]
+	at java.util.stream.SliceOps$1$1.accept(SliceOps.java:200) ~[?:?]
+	at java.util.ArrayList$ArrayListSpliterator.tryAdvance(ArrayList.java:1602) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEachWithCancel(ReferencePipeline.java:129) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyIntoWithCancel(AbstractPipeline.java:527) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:513) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682) ~[?:?]
+	at io.cucumber.core.runtime.Runtime.runFeatures(Runtime.java:90) ~[cucumber-core-7.15.0.jar:7.15.0]
+	at io.cucumber.core.runtime.Runtime.lambda$run$0(Runtime.java:78) ~[cucumber-core-7.15.0.jar:7.15.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runFeatures$6(CucumberExecutionContext.java:148) ~[cucumber-core-7.15.0.jar:7.15.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.execute(CucumberExecutionContext.java:163) [cucumber-core-7.15.0.jar:7.15.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runFeatures(CucumberExecutionContext.java:146) [cucumber-core-7.15.0.jar:7.15.0]
+	at io.cucumber.core.runtime.Runtime.run(Runtime.java:78) [cucumber-core-7.15.0.jar:7.15.0]
+	at io.cucumber.core.cli.Main.run(Main.java:87) [cucumber-core-7.15.0.jar:7.15.0]
+	at io.cucumber.core.cli.Main.main(Main.java:30) [cucumber-core-7.15.0.jar:7.15.0]
+2025-06-13 13:33:57 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-13 13:34:02 [main] INFO  steps.BaseSteps - Element is visible: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-13 13:34:02 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-13 13:34:04 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-13 13:34:04 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/searchTextView
+2025-06-13 13:34:08 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/searchTextView
+2025-06-13 13:34:08 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 13:34:10 [main] INFO  steps.BaseSteps - Clicked on element: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 13:34:13 [main] INFO  steps.BaseSteps - Sent keys 'Laptop' to element located by: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 13:34:13 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 13:34:17 [main] INFO  steps.BaseSteps - Clicked on element: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 13:34:17 [main] INFO  steps.BaseSteps - ENTER key was sent using Actions.
+2025-06-13 13:34:17 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 13:34:30 [main] WARN  steps.BaseSteps - Element is not visible within the timeout: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 13:34:30 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 13:34:32 [main] INFO  steps.BaseSteps - Clicked on element: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 13:34:33 [main] INFO  steps.BaseSteps - ENTER key was sent using Actions.
+2025-06-13 13:34:33 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 13:34:44 [main] WARN  steps.BaseSteps - Element is not visible within the timeout: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 13:34:44 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 13:34:46 [main] INFO  steps.BaseSteps - Clicked on element: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 13:34:46 [main] INFO  steps.BaseSteps - ENTER key was sent using Actions.
+2025-06-13 13:34:46 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 13:34:56 [main] WARN  steps.BaseSteps - Element is not visible within the timeout: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 13:34:56 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 13:34:59 [main] INFO  steps.BaseSteps - Clicked on element: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 13:34:59 [main] INFO  steps.BaseSteps - ENTER key was sent using Actions.
+2025-06-13 13:34:59 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 13:35:01 [main] INFO  steps.BaseSteps - Element is visible: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 13:35:06 [main] WARN  steps.BaseSteps - Swipe 1 did not reveal element located by By.id: com.akakce.akakce:id/filterArea. Swiping again...
+2025-06-13 13:35:09 [main] INFO  steps.BaseSteps - Element located by By.id: com.akakce.akakce:id/filterArea is now visible after 1 swipe(s).
+2025-06-13 13:35:09 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/filterArea
+2025-06-13 13:35:11 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/filterArea
+2025-06-13 13:35:25 [main] WARN  steps.BaseSteps - Swipe 1 did not reveal element located by By.xpath: //android.widget.TextView[@text="4K"]. Swiping again...
+2025-06-13 13:35:33 [main] INFO  steps.BaseSteps - Element located by By.xpath: //android.widget.TextView[@text="4K"] is now visible after 1 swipe(s).
+2025-06-13 13:35:33 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.xpath: //android.widget.TextView[@text="4K"]
+2025-06-13 13:35:41 [main] INFO  steps.BaseSteps - Clicked on element: By.xpath: //android.widget.TextView[@text="4K"]
+2025-06-13 13:35:41 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/apply
+2025-06-13 13:35:46 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/apply
+2025-06-13 13:35:46 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/sortArea
+2025-06-13 13:35:50 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/sortArea
+2025-06-13 13:35:50 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.xpath: //android.widget.TextView[@resource-id="com.akakce.akakce:id/sort_name" and @text="En Yüksek Fiyat"]
+2025-06-13 13:35:51 [main] INFO  steps.BaseSteps - Clicked on element: By.xpath: //android.widget.TextView[@resource-id="com.akakce.akakce:id/sort_name" and @text="En Yüksek Fiyat"]
+2025-06-13 13:35:58 [main] INFO  steps.BaseSteps - Swiping to find more elements located by By.id: com.akakce.akakce:id/card. Swipe count: 1
+2025-06-13 13:35:59 [main] INFO  steps.BaseSteps - Completed 1 swipe(s) for elements located by By.id: com.akakce.akakce:id/card
+2025-06-13 13:36:05 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.2.2 i9-13980HX 64 GB 2 TB SSD RTX5000 Ada 17.3" FreeDOS 4K Taşınabilir İş İstasyonu
+2025-06-13 13:36:05 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.2.1 i9-13980HX 32 GB 1 TB SSD RTX5000 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 13:36:06 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1.4 i9-13980HX 128 GB 4 TB SSD RTX3500 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 13:36:06 [main] INFO  steps.BaseSteps - Product added to list. Current list size: 4
+2025-06-13 13:36:06 [main] INFO  steps.BaseSteps - Added product name: Lenovo Thinkpad P16 Gen 2 I9 13950HX 128GB Ram 2 Tb SSD Rtx 5000 Ada 16" 4K - Gri
+2025-06-13 13:36:06 [main] INFO  steps.BaseSteps - Product added to list. Current list size: 5
+2025-06-13 13:36:06 [main] INFO  steps.BaseSteps - Added product name: Monster Markut M7 V6.1.3 i9-13980HX 64 GB 2 TB SSD RTX3500 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 13:36:11 [main] INFO  steps.BaseSteps - Swiping to find more elements located by By.id: com.akakce.akakce:id/card. Swipe count: 1
+2025-06-13 13:36:11 [main] INFO  steps.BaseSteps - Completed 1 swipe(s) for elements located by By.id: com.akakce.akakce:id/card
+2025-06-13 13:36:16 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.2.1 i9-13980HX 32 GB 1 TB SSD RTX5000 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 13:36:16 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1.4 i9-13980HX 128 GB 4 TB SSD RTX3500 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 13:36:18 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Lenovo Thinkpad P16 Gen 2 I9 13950HX 128GB Ram 2 Tb SSD Rtx 5000 Ada 16" 4K - Gri
+2025-06-13 13:36:18 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1.3 i9-13980HX 64 GB 2 TB SSD RTX3500 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 13:36:18 [main] INFO  steps.BaseSteps - Product added to list. Current list size: 6
+2025-06-13 13:36:18 [main] INFO  steps.BaseSteps - Added product name: Monster Markut M7 V6.1.2 i9-13980HX 64 GB 2 TB SSD RTX3500 Ada 17.3" FreeDOS 4K Taşınabilir İş İstasyonu
+2025-06-13 13:36:23 [main] INFO  steps.BaseSteps - Swiping to find more elements located by By.id: com.akakce.akakce:id/card. Swipe count: 1
+2025-06-13 13:36:24 [main] INFO  steps.BaseSteps - Completed 1 swipe(s) for elements located by By.id: com.akakce.akakce:id/card
+2025-06-13 13:36:29 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1.4 i9-13980HX 128 GB 4 TB SSD RTX3500 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 13:36:29 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Lenovo Thinkpad P16 Gen 2 I9 13950HX 128GB Ram 2 Tb SSD Rtx 5000 Ada 16" 4K - Gri
+2025-06-13 13:36:29 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1.3 i9-13980HX 64 GB 2 TB SSD RTX3500 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 13:36:30 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1.2 i9-13980HX 64 GB 2 TB SSD RTX3500 Ada 17.3" FreeDOS 4K Taşınabilir İş İstasyonu
+2025-06-13 13:36:30 [main] INFO  steps.BaseSteps - Product added to list. Current list size: 7
+2025-06-13 13:36:30 [main] INFO  steps.BaseSteps - Added product name: Monster Markut M7 V6.1.1 i9-13980HX 32 GB 1 TB SSD RTX3500 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 13:36:35 [main] INFO  steps.BaseSteps - Swiping to find more elements located by By.id: com.akakce.akakce:id/card. Swipe count: 1
+2025-06-13 13:36:36 [main] INFO  steps.BaseSteps - Completed 1 swipe(s) for elements located by By.id: com.akakce.akakce:id/card
+2025-06-13 13:36:40 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Lenovo Thinkpad P16 Gen 2 I9 13950HX 128GB Ram 2 Tb SSD Rtx 5000 Ada 16" 4K - Gri
+2025-06-13 13:36:40 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1.3 i9-13980HX 64 GB 2 TB SSD RTX3500 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 13:36:40 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1.2 i9-13980HX 64 GB 2 TB SSD RTX3500 Ada 17.3" FreeDOS 4K Taşınabilir İş İstasyonu
+2025-06-13 13:36:41 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1.1 i9-13980HX 32 GB 1 TB SSD RTX3500 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 13:36:42 [main] INFO  steps.BaseSteps - Product added to list. Current list size: 8
+2025-06-13 13:36:42 [main] INFO  steps.BaseSteps - Added product name: Monster Markut M7 V6.1 i9-13980HX 32 GB 1 TB SSD RTX3500 Ada 17.3" FreeDOS 4K Taşınabilir İş İstasyonu
+2025-06-13 13:36:46 [main] INFO  steps.BaseSteps - Swiping to find more elements located by By.id: com.akakce.akakce:id/card. Swipe count: 1
+2025-06-13 13:36:47 [main] INFO  steps.BaseSteps - Completed 1 swipe(s) for elements located by By.id: com.akakce.akakce:id/card
+2025-06-13 13:36:51 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1.3 i9-13980HX 64 GB 2 TB SSD RTX3500 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 13:36:52 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1.2 i9-13980HX 64 GB 2 TB SSD RTX3500 Ada 17.3" FreeDOS 4K Taşınabilir İş İstasyonu
+2025-06-13 13:36:52 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1.1 i9-13980HX 32 GB 1 TB SSD RTX3500 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 13:36:52 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1 i9-13980HX 32 GB 1 TB SSD RTX3500 Ada 17.3" FreeDOS 4K Taşınabilir İş İstasyonu
+2025-06-13 13:36:52 [main] INFO  steps.BaseSteps - Product added to list. Current list size: 9
+2025-06-13 13:36:52 [main] INFO  steps.BaseSteps - Added product name: Dell Precision 7680 I9 13950HX 64GB Ram Rtx Ada 5000 16GB 16" 4K Touch W11 Ingilizce Klavye - Gri
+2025-06-13 13:36:58 [main] INFO  steps.BaseSteps - Swiping to find more elements located by By.id: com.akakce.akakce:id/card. Swipe count: 1
+2025-06-13 13:36:59 [main] INFO  steps.BaseSteps - Completed 1 swipe(s) for elements located by By.id: com.akakce.akakce:id/card
+2025-06-13 13:37:05 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1.2 i9-13980HX 64 GB 2 TB SSD RTX3500 Ada 17.3" FreeDOS 4K Taşınabilir İş İstasyonu
+2025-06-13 13:37:05 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1.1 i9-13980HX 32 GB 1 TB SSD RTX3500 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 13:37:05 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1 i9-13980HX 32 GB 1 TB SSD RTX3500 Ada 17.3" FreeDOS 4K Taşınabilir İş İstasyonu
+2025-06-13 13:37:06 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Dell Precision 7680 I9 13950HX 64GB Ram Rtx Ada 5000 16GB 16" 4K Touch W11 Ingilizce Klavye - Gri
+2025-06-13 13:37:10 [main] INFO  steps.BaseSteps - Swiping to find more elements located by By.id: com.akakce.akakce:id/card. Swipe count: 1
+2025-06-13 13:37:11 [main] INFO  steps.BaseSteps - Completed 1 swipe(s) for elements located by By.id: com.akakce.akakce:id/card
+2025-06-13 13:37:17 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1.1 i9-13980HX 32 GB 1 TB SSD RTX3500 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 13:37:18 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1 i9-13980HX 32 GB 1 TB SSD RTX3500 Ada 17.3" FreeDOS 4K Taşınabilir İş İstasyonu
+2025-06-13 13:37:18 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Dell Precision 7680 I9 13950HX 64GB Ram Rtx Ada 5000 16GB 16" 4K Touch W11 Ingilizce Klavye - Gri
+2025-06-13 13:37:19 [main] INFO  steps.BaseSteps - Product added to list. Current list size: 10
+2025-06-13 13:37:19 [main] INFO  steps.BaseSteps - Added product name: Asus Proart P16 WH7606WP Ryzen Aı 9 HX370 64GB Ddr5 4tb+4tb SSD 8GB/RTX5070 16.0-Inch, 4K (3840 x 2400) OLED 0.2ms Dokunmatik Ekran Windows 11 Pro Taşınabilir Bilgisayar WME020P08+ZETTAÇANTA
+2025-06-13 13:37:24 [main] INFO  steps.BaseSteps - Clicked on element at reverse index 1 (actual index 5) located by By.id: com.akakce.akakce:id/card
+2025-06-13 13:37:30 [main] WARN  steps.BaseSteps - Swipe 1 did not reveal element located by By.id: com.akakce.akakce:id/detailBtnLayout. Swiping again...
+2025-06-13 13:37:35 [main] INFO  steps.BaseSteps - Element located by By.id: com.akakce.akakce:id/detailBtnLayout is now visible after 1 swipe(s).
+2025-06-13 13:37:35 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/detailBtnLayout
+2025-06-13 13:37:37 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/detailBtnLayout
+2025-06-13 13:37:37 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.xpath: //android.view.View[@content-desc="Satıcıya Git"]
+2025-06-13 13:37:47 [main] INFO  steps.BaseSteps - Element is visible: By.xpath: //android.view.View[@content-desc="Satıcıya Git"]
+2025-06-13 13:49:01 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-13 13:49:07 [main] INFO  steps.BaseSteps - Element is visible: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-13 13:49:07 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-13 13:49:08 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-13 13:49:08 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/searchTextView
+2025-06-13 13:49:12 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/searchTextView
+2025-06-13 13:49:12 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 13:49:14 [main] INFO  steps.BaseSteps - Clicked on element: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 13:49:18 [main] INFO  steps.BaseSteps - Sent keys 'Laptop' to element located by: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 13:49:18 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 13:49:21 [main] INFO  steps.BaseSteps - Clicked on element: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 13:49:21 [main] INFO  steps.BaseSteps - ENTER key was sent using Actions.
+2025-06-13 13:49:21 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 13:49:25 [main] INFO  steps.BaseSteps - Element is visible: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 13:49:30 [main] WARN  steps.BaseSteps - Swipe 1 did not reveal element located by By.id: com.akakce.akakce:id/filterArea. Swiping again...
+2025-06-13 13:49:34 [main] INFO  steps.BaseSteps - Element located by By.id: com.akakce.akakce:id/filterArea is now visible after 1 swipe(s).
+2025-06-13 13:49:34 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/filterArea
+2025-06-13 13:49:45 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/filterArea
+2025-06-13 13:49:50 [main] WARN  steps.BaseSteps - Swipe 1 did not reveal element located by By.xpath: //android.widget.TextView[@text="4K"]. Swiping again...
+2025-06-13 13:49:58 [main] INFO  steps.BaseSteps - Element located by By.xpath: //android.widget.TextView[@text="4K"] is now visible after 1 swipe(s).
+2025-06-13 13:49:58 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.xpath: //android.widget.TextView[@text="4K"]
+2025-06-13 13:50:04 [main] INFO  steps.BaseSteps - Clicked on element: By.xpath: //android.widget.TextView[@text="4K"]
+2025-06-13 13:50:04 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/apply
+2025-06-13 13:50:08 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/apply
+2025-06-13 13:50:08 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/sortArea
+2025-06-13 13:50:11 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/sortArea
+2025-06-13 13:50:11 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.xpath: //android.widget.TextView[@resource-id="com.akakce.akakce:id/sort_name" and @text="En Yüksek Fiyat"]
+2025-06-13 13:50:12 [main] INFO  steps.BaseSteps - Clicked on element: By.xpath: //android.widget.TextView[@resource-id="com.akakce.akakce:id/sort_name" and @text="En Yüksek Fiyat"]
+2025-06-13 13:50:31 [main] INFO  steps.BaseSteps - Swiping to find more elements located by By.id: com.akakce.akakce:id/card. Swipe count: 1
+2025-06-13 13:50:32 [main] INFO  steps.BaseSteps - Completed 1 swipe(s) for elements located by By.id: com.akakce.akakce:id/card
+2025-06-13 13:50:54 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.2.2 i9-13980HX 64 GB 2 TB SSD RTX5000 Ada 17.3" FreeDOS 4K Taşınabilir İş İstasyonu
+2025-06-13 13:51:00 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.2.1 i9-13980HX 32 GB 1 TB SSD RTX5000 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 13:51:10 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1.4 i9-13980HX 128 GB 4 TB SSD RTX3500 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 13:51:20 [main] INFO  steps.BaseSteps - Product added to list. Current list size: 4
+2025-06-13 13:51:21 [main] INFO  steps.BaseSteps - Added product name: Lenovo Thinkpad P16 Gen 2 I9 13950HX 128GB Ram 2 Tb SSD Rtx 5000 Ada 16" 4K - Gri
+2025-06-13 13:51:30 [main] INFO  steps.BaseSteps - Swiping to find more elements located by By.id: com.akakce.akakce:id/card. Swipe count: 1
+2025-06-13 13:51:31 [main] INFO  steps.BaseSteps - Completed 1 swipe(s) for elements located by By.id: com.akakce.akakce:id/card
+2025-06-13 13:51:46 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.2.1 i9-13980HX 32 GB 1 TB SSD RTX5000 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 13:51:51 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1.4 i9-13980HX 128 GB 4 TB SSD RTX3500 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 13:51:58 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Lenovo Thinkpad P16 Gen 2 I9 13950HX 128GB Ram 2 Tb SSD Rtx 5000 Ada 16" 4K - Gri
+2025-06-13 13:52:02 [main] INFO  steps.BaseSteps - Product added to list. Current list size: 5
+2025-06-13 13:52:03 [main] INFO  steps.BaseSteps - Added product name: Monster Markut M7 V6.1.3 i9-13980HX 64 GB 2 TB SSD RTX3500 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 13:52:14 [main] INFO  steps.BaseSteps - Swiping to find more elements located by By.id: com.akakce.akakce:id/card. Swipe count: 1
+2025-06-13 13:52:15 [main] INFO  steps.BaseSteps - Completed 1 swipe(s) for elements located by By.id: com.akakce.akakce:id/card
+2025-06-13 13:52:31 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1.4 i9-13980HX 128 GB 4 TB SSD RTX3500 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 13:52:40 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Lenovo Thinkpad P16 Gen 2 I9 13950HX 128GB Ram 2 Tb SSD Rtx 5000 Ada 16" 4K - Gri
+2025-06-13 13:52:46 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1.3 i9-13980HX 64 GB 2 TB SSD RTX3500 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 13:52:52 [main] INFO  steps.BaseSteps - Product added to list. Current list size: 6
+2025-06-13 13:52:52 [main] INFO  steps.BaseSteps - Added product name: Monster Markut M7 V6.1.2 i9-13980HX 64 GB 2 TB SSD RTX3500 Ada 17.3" FreeDOS 4K Taşınabilir İş İstasyonu
+2025-06-13 13:53:07 [main] INFO  steps.BaseSteps - Swiping to find more elements located by By.id: com.akakce.akakce:id/card. Swipe count: 1
+2025-06-13 13:53:08 [main] INFO  steps.BaseSteps - Completed 1 swipe(s) for elements located by By.id: com.akakce.akakce:id/card
+2025-06-13 13:53:25 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Lenovo Thinkpad P16 Gen 2 I9 13950HX 128GB Ram 2 Tb SSD Rtx 5000 Ada 16" 4K - Gri
+2025-06-13 13:53:30 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1.3 i9-13980HX 64 GB 2 TB SSD RTX3500 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 13:53:36 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1.2 i9-13980HX 64 GB 2 TB SSD RTX3500 Ada 17.3" FreeDOS 4K Taşınabilir İş İstasyonu
+2025-06-13 13:53:42 [main] INFO  steps.BaseSteps - Product added to list. Current list size: 7
+2025-06-13 13:53:43 [main] INFO  steps.BaseSteps - Added product name: Monster Markut M7 V6.1.1 i9-13980HX 32 GB 1 TB SSD RTX3500 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 13:53:52 [main] INFO  steps.BaseSteps - Swiping to find more elements located by By.id: com.akakce.akakce:id/card. Swipe count: 1
+2025-06-13 13:53:53 [main] INFO  steps.BaseSteps - Completed 1 swipe(s) for elements located by By.id: com.akakce.akakce:id/card
+2025-06-13 13:54:06 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1.3 i9-13980HX 64 GB 2 TB SSD RTX3500 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 13:54:10 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1.2 i9-13980HX 64 GB 2 TB SSD RTX3500 Ada 17.3" FreeDOS 4K Taşınabilir İş İstasyonu
+2025-06-13 13:54:13 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1.1 i9-13980HX 32 GB 1 TB SSD RTX3500 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 13:54:19 [main] INFO  steps.BaseSteps - Product added to list. Current list size: 8
+2025-06-13 13:54:22 [main] INFO  steps.BaseSteps - Added product name: Monster Markut M7 V6.1 i9-13980HX 32 GB 1 TB SSD RTX3500 Ada 17.3" FreeDOS 4K Taşınabilir İş İstasyonu
+2025-06-13 13:54:31 [main] INFO  steps.BaseSteps - Product added to list. Current list size: 9
+2025-06-13 13:54:33 [main] INFO  steps.BaseSteps - Added product name: Dell Precision 7680 I9 13950HX 64GB Ram Rtx Ada 5000 16GB 16" 4K Touch W11 Ingilizce Klavye - Gri
+2025-06-13 13:54:41 [main] INFO  steps.BaseSteps - Swiping to find more elements located by By.id: com.akakce.akakce:id/card. Swipe count: 1
+2025-06-13 13:54:42 [main] INFO  steps.BaseSteps - Completed 1 swipe(s) for elements located by By.id: com.akakce.akakce:id/card
+2025-06-13 13:54:54 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1.2 i9-13980HX 64 GB 2 TB SSD RTX3500 Ada 17.3" FreeDOS 4K Taşınabilir İş İstasyonu
+2025-06-13 13:55:00 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1.1 i9-13980HX 32 GB 1 TB SSD RTX3500 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 13:55:04 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1 i9-13980HX 32 GB 1 TB SSD RTX3500 Ada 17.3" FreeDOS 4K Taşınabilir İş İstasyonu
+2025-06-13 13:55:08 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Dell Precision 7680 I9 13950HX 64GB Ram Rtx Ada 5000 16GB 16" 4K Touch W11 Ingilizce Klavye - Gri
+2025-06-13 13:55:11 [main] INFO  steps.BaseSteps - Product added to list. Current list size: 10
+2025-06-13 13:55:12 [main] INFO  steps.BaseSteps - Added product name: Asus Proart P16 WH7606WP Ryzen Aı 9 HX370 64GB Ddr5 4tb+4tb SSD 8GB/RTX5070 16.0-Inch, 4K (3840 x 2400) OLED 0.2ms Dokunmatik Ekran Windows 11 Pro Taşınabilir Bilgisayar WME020P08+ZETTAÇANTA
+2025-06-13 13:56:30 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-13 13:56:36 [main] INFO  steps.BaseSteps - Element is visible: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-13 13:56:36 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-13 13:56:38 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-13 13:56:38 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/searchTextView
+2025-06-13 13:56:41 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/searchTextView
+2025-06-13 13:56:41 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 13:56:43 [main] INFO  steps.BaseSteps - Clicked on element: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 13:56:46 [main] INFO  steps.BaseSteps - Sent keys 'Laptop' to element located by: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 13:56:46 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 13:56:50 [main] INFO  steps.BaseSteps - Clicked on element: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 13:56:50 [main] INFO  steps.BaseSteps - ENTER key was sent using Actions.
+2025-06-13 13:56:50 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 13:57:00 [main] WARN  steps.BaseSteps - Element is not visible within the timeout: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 13:57:00 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 13:57:03 [main] INFO  steps.BaseSteps - Clicked on element: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 13:57:03 [main] INFO  steps.BaseSteps - ENTER key was sent using Actions.
+2025-06-13 13:57:03 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 13:57:15 [main] WARN  steps.BaseSteps - Element is not visible within the timeout: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 13:57:15 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 13:57:19 [main] INFO  steps.BaseSteps - Clicked on element: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 13:57:20 [main] INFO  steps.BaseSteps - ENTER key was sent using Actions.
+2025-06-13 13:57:20 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 13:57:30 [main] WARN  steps.BaseSteps - Element is not visible within the timeout: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 13:57:30 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 13:57:34 [main] INFO  steps.BaseSteps - Clicked on element: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 13:57:34 [main] INFO  steps.BaseSteps - ENTER key was sent using Actions.
+2025-06-13 13:57:34 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 13:57:37 [main] INFO  steps.BaseSteps - Element is visible: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 13:57:40 [main] WARN  steps.BaseSteps - Swipe 1 did not reveal element located by By.id: com.akakce.akakce:id/filterArea. Swiping again...
+2025-06-13 13:57:43 [main] INFO  steps.BaseSteps - Element located by By.id: com.akakce.akakce:id/filterArea is now visible after 1 swipe(s).
+2025-06-13 13:57:43 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/filterArea
+2025-06-13 13:57:48 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/filterArea
+2025-06-13 13:57:51 [main] WARN  steps.BaseSteps - Swipe 1 did not reveal element located by By.xpath: //android.widget.TextView[@text="4K"]. Swiping again...
+2025-06-13 13:57:56 [main] INFO  steps.BaseSteps - Element located by By.xpath: //android.widget.TextView[@text="4K"] is now visible after 1 swipe(s).
+2025-06-13 13:57:56 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.xpath: //android.widget.TextView[@text="4K"]
+2025-06-13 13:58:01 [main] INFO  steps.BaseSteps - Clicked on element: By.xpath: //android.widget.TextView[@text="4K"]
+2025-06-13 13:58:01 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/apply
+2025-06-13 13:58:05 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/apply
+2025-06-13 13:58:05 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/sortArea
+2025-06-13 13:58:07 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/sortArea
+2025-06-13 13:58:07 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.xpath: //android.widget.TextView[@resource-id="com.akakce.akakce:id/sort_name" and @text="En Yüksek Fiyat"]
+2025-06-13 13:58:08 [main] INFO  steps.BaseSteps - Clicked on element: By.xpath: //android.widget.TextView[@resource-id="com.akakce.akakce:id/sort_name" and @text="En Yüksek Fiyat"]
+2025-06-13 13:58:12 [main] INFO  steps.BaseSteps - Swiping to find more elements located by By.id: com.akakce.akakce:id/card. Swipe count: 1
+2025-06-13 13:58:13 [main] INFO  steps.BaseSteps - Completed 1 swipe(s) for elements located by By.id: com.akakce.akakce:id/card
+2025-06-13 13:58:15 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.2.2 i9-13980HX 64 GB 2 TB SSD RTX5000 Ada 17.3" FreeDOS 4K Taşınabilir İş İstasyonu
+2025-06-13 13:58:15 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.2.1 i9-13980HX 32 GB 1 TB SSD RTX5000 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 13:58:16 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1.4 i9-13980HX 128 GB 4 TB SSD RTX3500 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 13:58:16 [main] INFO  steps.BaseSteps - Product added to list. Current list size: 4
+2025-06-13 13:58:16 [main] INFO  steps.BaseSteps - Added product name: Lenovo Thinkpad P16 Gen 2 I9 13950HX 128GB Ram 2 Tb SSD Rtx 5000 Ada 16" 4K - Gri
+2025-06-13 13:58:18 [main] INFO  steps.BaseSteps - Swiping to find more elements located by By.id: com.akakce.akakce:id/card. Swipe count: 1
+2025-06-13 13:58:19 [main] INFO  steps.BaseSteps - Completed 1 swipe(s) for elements located by By.id: com.akakce.akakce:id/card
+2025-06-13 13:58:22 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.2.2 i9-13980HX 64 GB 2 TB SSD RTX5000 Ada 17.3" FreeDOS 4K Taşınabilir İş İstasyonu
+2025-06-13 13:58:22 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.2.1 i9-13980HX 32 GB 1 TB SSD RTX5000 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 13:58:22 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1.4 i9-13980HX 128 GB 4 TB SSD RTX3500 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 13:58:22 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Lenovo Thinkpad P16 Gen 2 I9 13950HX 128GB Ram 2 Tb SSD Rtx 5000 Ada 16" 4K - Gri
+2025-06-13 13:58:22 [main] INFO  steps.BaseSteps - Product added to list. Current list size: 5
+2025-06-13 13:58:22 [main] INFO  steps.BaseSteps - Added product name: Monster Markut M7 V6.1.3 i9-13980HX 64 GB 2 TB SSD RTX3500 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 13:58:25 [main] INFO  steps.BaseSteps - Swiping to find more elements located by By.id: com.akakce.akakce:id/card. Swipe count: 1
+2025-06-13 13:58:25 [main] INFO  steps.BaseSteps - Completed 1 swipe(s) for elements located by By.id: com.akakce.akakce:id/card
+2025-06-13 13:58:28 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.2.1 i9-13980HX 32 GB 1 TB SSD RTX5000 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 13:58:29 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1.4 i9-13980HX 128 GB 4 TB SSD RTX3500 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 13:58:29 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Lenovo Thinkpad P16 Gen 2 I9 13950HX 128GB Ram 2 Tb SSD Rtx 5000 Ada 16" 4K - Gri
+2025-06-13 13:58:29 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1.3 i9-13980HX 64 GB 2 TB SSD RTX3500 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 13:58:29 [main] INFO  steps.BaseSteps - Product added to list. Current list size: 6
+2025-06-13 13:58:29 [main] INFO  steps.BaseSteps - Added product name: Monster Markut M7 V6.1.2 i9-13980HX 64 GB 2 TB SSD RTX3500 Ada 17.3" FreeDOS 4K Taşınabilir İş İstasyonu
+2025-06-13 13:58:31 [main] INFO  steps.BaseSteps - Swiping to find more elements located by By.id: com.akakce.akakce:id/card. Swipe count: 1
+2025-06-13 13:58:32 [main] INFO  steps.BaseSteps - Completed 1 swipe(s) for elements located by By.id: com.akakce.akakce:id/card
+2025-06-13 13:58:34 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1.4 i9-13980HX 128 GB 4 TB SSD RTX3500 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 13:58:34 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Lenovo Thinkpad P16 Gen 2 I9 13950HX 128GB Ram 2 Tb SSD Rtx 5000 Ada 16" 4K - Gri
+2025-06-13 13:58:35 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1.3 i9-13980HX 64 GB 2 TB SSD RTX3500 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 13:58:35 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1.2 i9-13980HX 64 GB 2 TB SSD RTX3500 Ada 17.3" FreeDOS 4K Taşınabilir İş İstasyonu
+2025-06-13 13:58:35 [main] INFO  steps.BaseSteps - Product added to list. Current list size: 7
+2025-06-13 13:58:35 [main] INFO  steps.BaseSteps - Added product name: Monster Markut M7 V6.1.1 i9-13980HX 32 GB 1 TB SSD RTX3500 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 13:58:37 [main] INFO  steps.BaseSteps - Swiping to find more elements located by By.id: com.akakce.akakce:id/card. Swipe count: 1
+2025-06-13 13:58:38 [main] INFO  steps.BaseSteps - Completed 1 swipe(s) for elements located by By.id: com.akakce.akakce:id/card
+2025-06-13 13:58:40 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Lenovo Thinkpad P16 Gen 2 I9 13950HX 128GB Ram 2 Tb SSD Rtx 5000 Ada 16" 4K - Gri
+2025-06-13 13:58:40 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1.3 i9-13980HX 64 GB 2 TB SSD RTX3500 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 13:58:40 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1.2 i9-13980HX 64 GB 2 TB SSD RTX3500 Ada 17.3" FreeDOS 4K Taşınabilir İş İstasyonu
+2025-06-13 13:58:40 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1.1 i9-13980HX 32 GB 1 TB SSD RTX3500 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 13:58:41 [main] INFO  steps.BaseSteps - Product added to list. Current list size: 8
+2025-06-13 13:58:41 [main] INFO  steps.BaseSteps - Added product name: Monster Markut M7 V6.1 i9-13980HX 32 GB 1 TB SSD RTX3500 Ada 17.3" FreeDOS 4K Taşınabilir İş İstasyonu
+2025-06-13 13:58:43 [main] INFO  steps.BaseSteps - Swiping to find more elements located by By.id: com.akakce.akakce:id/card. Swipe count: 1
+2025-06-13 13:58:44 [main] INFO  steps.BaseSteps - Completed 1 swipe(s) for elements located by By.id: com.akakce.akakce:id/card
+2025-06-13 13:58:47 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1.3 i9-13980HX 64 GB 2 TB SSD RTX3500 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 13:58:47 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1.2 i9-13980HX 64 GB 2 TB SSD RTX3500 Ada 17.3" FreeDOS 4K Taşınabilir İş İstasyonu
+2025-06-13 13:58:47 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1.1 i9-13980HX 32 GB 1 TB SSD RTX3500 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 13:58:47 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1 i9-13980HX 32 GB 1 TB SSD RTX3500 Ada 17.3" FreeDOS 4K Taşınabilir İş İstasyonu
+2025-06-13 13:58:47 [main] INFO  steps.BaseSteps - Product added to list. Current list size: 9
+2025-06-13 13:58:47 [main] INFO  steps.BaseSteps - Added product name: Dell Precision 7680 I9 13950HX 64GB Ram Rtx Ada 5000 16GB 16" 4K Touch W11 Ingilizce Klavye - Gri
+2025-06-13 13:58:50 [main] INFO  steps.BaseSteps - Swiping to find more elements located by By.id: com.akakce.akakce:id/card. Swipe count: 1
+2025-06-13 13:58:51 [main] INFO  steps.BaseSteps - Completed 1 swipe(s) for elements located by By.id: com.akakce.akakce:id/card
+2025-06-13 13:58:53 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1.2 i9-13980HX 64 GB 2 TB SSD RTX3500 Ada 17.3" FreeDOS 4K Taşınabilir İş İstasyonu
+2025-06-13 13:58:54 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1.1 i9-13980HX 32 GB 1 TB SSD RTX3500 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 13:58:54 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1 i9-13980HX 32 GB 1 TB SSD RTX3500 Ada 17.3" FreeDOS 4K Taşınabilir İş İstasyonu
+2025-06-13 13:58:54 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Dell Precision 7680 I9 13950HX 64GB Ram Rtx Ada 5000 16GB 16" 4K Touch W11 Ingilizce Klavye - Gri
+2025-06-13 13:58:54 [main] INFO  steps.BaseSteps - Product added to list. Current list size: 10
+2025-06-13 13:58:54 [main] INFO  steps.BaseSteps - Added product name: Asus Proart P16 WH7606WP Ryzen Aı 9 HX370 64GB Ddr5 4tb+4tb SSD 8GB/RTX5070 16.0-Inch, 4K (3840 x 2400) OLED 0.2ms Dokunmatik Ekran Windows 11 Pro Taşınabilir Bilgisayar WME020P08+ZETTAÇANTA
+2025-06-13 13:58:54 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.xpath: //android.widget.TextView[@resource-id='com.akakce.akakce:id/name' and @text="Asus Proart P16 WH7606WP Ryzen Aı 9 HX370 64GB Ddr5 4tb+4tb SSD 8GB/RTX5070 16.0-Inch, 4K (3840 x 2400) OLED 0.2ms Dokunmatik Ekran Windows 11 Pro Taşınabilir Bilgisayar WME020P08+ZETTAÇANTA"]
+2025-06-13 13:58:58 [main] INFO  steps.BaseSteps - Clicked on element: By.xpath: //android.widget.TextView[@resource-id='com.akakce.akakce:id/name' and @text="Asus Proart P16 WH7606WP Ryzen Aı 9 HX370 64GB Ddr5 4tb+4tb SSD 8GB/RTX5070 16.0-Inch, 4K (3840 x 2400) OLED 0.2ms Dokunmatik Ekran Windows 11 Pro Taşınabilir Bilgisayar WME020P08+ZETTAÇANTA"]
+2025-06-13 13:59:01 [main] WARN  steps.BaseSteps - Swipe 1 did not reveal element located by By.id: com.akakce.akakce:id/detailBtnLayout. Swiping again...
+2025-06-13 13:59:04 [main] INFO  steps.BaseSteps - Element located by By.id: com.akakce.akakce:id/detailBtnLayout is now visible after 1 swipe(s).
+2025-06-13 13:59:04 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/detailBtnLayout
+2025-06-13 13:59:07 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/detailBtnLayout
+2025-06-13 13:59:07 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.xpath: //android.view.View[@content-desc="Satıcıya Git"]
+2025-06-13 13:59:12 [main] INFO  steps.BaseSteps - Element is visible: By.xpath: //android.view.View[@content-desc="Satıcıya Git"]
+2025-06-13 14:20:55 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-13 14:21:00 [main] INFO  steps.BaseSteps - Element is visible: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-13 14:21:00 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-13 14:21:02 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/continueWithoutRegister
+2025-06-13 14:21:02 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/searchTextView
+2025-06-13 14:21:06 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/searchTextView
+2025-06-13 14:21:06 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 14:21:09 [main] INFO  steps.BaseSteps - Clicked on element: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 14:21:11 [main] INFO  steps.BaseSteps - Sent keys 'Laptop' to element located by: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 14:21:11 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 14:21:14 [main] INFO  steps.BaseSteps - Clicked on element: By.xpath: (//android.widget.EditText[@resource-id="com.akakce.akakce:id/searchTextView"])[2]
+2025-06-13 14:21:15 [main] INFO  steps.BaseSteps - ENTER key was sent using Actions.
+2025-06-13 14:21:15 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 14:21:18 [main] INFO  steps.BaseSteps - Element is visible: By.id: com.akakce.akakce:id/campaignTitle
+2025-06-13 14:21:23 [main] WARN  steps.BaseSteps - Swipe 1 did not reveal element located by By.id: com.akakce.akakce:id/filterArea. Swiping again...
+2025-06-13 14:21:27 [main] INFO  steps.BaseSteps - Element located by By.id: com.akakce.akakce:id/filterArea is now visible after 1 swipe(s).
+2025-06-13 14:21:27 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/filterArea
+2025-06-13 14:21:40 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/filterArea
+2025-06-13 14:21:45 [main] WARN  steps.BaseSteps - Swipe 1 did not reveal element located by By.xpath: //android.widget.TextView[@text="4K"]. Swiping again...
+2025-06-13 14:21:55 [main] INFO  steps.BaseSteps - Element located by By.xpath: //android.widget.TextView[@text="4K"] is now visible after 1 swipe(s).
+2025-06-13 14:21:55 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.xpath: //android.widget.TextView[@text="4K"]
+2025-06-13 14:22:03 [main] INFO  steps.BaseSteps - Clicked on element: By.xpath: //android.widget.TextView[@text="4K"]
+2025-06-13 14:22:03 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/apply
+2025-06-13 14:22:06 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/apply
+2025-06-13 14:22:06 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/sortArea
+2025-06-13 14:22:10 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/sortArea
+2025-06-13 14:22:10 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.xpath: //android.widget.TextView[@resource-id="com.akakce.akakce:id/sort_name" and @text="En Yüksek Fiyat"]
+2025-06-13 14:22:12 [main] INFO  steps.BaseSteps - Clicked on element: By.xpath: //android.widget.TextView[@resource-id="com.akakce.akakce:id/sort_name" and @text="En Yüksek Fiyat"]
+2025-06-13 14:22:19 [main] INFO  steps.BaseSteps - Swiping to find more elements located by By.id: com.akakce.akakce:id/card. Swipe count: 1
+2025-06-13 14:22:20 [main] INFO  steps.BaseSteps - Completed 1 swipe(s) for elements located by By.id: com.akakce.akakce:id/card
+2025-06-13 14:22:25 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.2.2 i9-13980HX 64 GB 2 TB SSD RTX5000 Ada 17.3" FreeDOS 4K Taşınabilir İş İstasyonu
+2025-06-13 14:22:25 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.2.1 i9-13980HX 32 GB 1 TB SSD RTX5000 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 14:22:26 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1.4 i9-13980HX 128 GB 4 TB SSD RTX3500 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 14:22:26 [main] INFO  steps.BaseSteps - Product added to list. Current list size: 4
+2025-06-13 14:22:26 [main] INFO  steps.BaseSteps - Added product name: Lenovo Thinkpad P16 Gen 2 I9 13950HX 128GB Ram 2 Tb SSD Rtx 5000 Ada 16" 4K - Gri
+2025-06-13 14:22:29 [main] INFO  steps.BaseSteps - Swiping to find more elements located by By.id: com.akakce.akakce:id/card. Swipe count: 1
+2025-06-13 14:22:30 [main] INFO  steps.BaseSteps - Completed 1 swipe(s) for elements located by By.id: com.akakce.akakce:id/card
+2025-06-13 14:22:36 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.2.2 i9-13980HX 64 GB 2 TB SSD RTX5000 Ada 17.3" FreeDOS 4K Taşınabilir İş İstasyonu
+2025-06-13 14:22:36 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.2.1 i9-13980HX 32 GB 1 TB SSD RTX5000 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 14:22:36 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1.4 i9-13980HX 128 GB 4 TB SSD RTX3500 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 14:22:37 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Lenovo Thinkpad P16 Gen 2 I9 13950HX 128GB Ram 2 Tb SSD Rtx 5000 Ada 16" 4K - Gri
+2025-06-13 14:22:38 [main] INFO  steps.BaseSteps - Product added to list. Current list size: 5
+2025-06-13 14:22:38 [main] INFO  steps.BaseSteps - Added product name: Monster Markut M7 V6.1.3 i9-13980HX 64 GB 2 TB SSD RTX3500 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 14:22:42 [main] INFO  steps.BaseSteps - Swiping to find more elements located by By.id: com.akakce.akakce:id/card. Swipe count: 1
+2025-06-13 14:22:43 [main] INFO  steps.BaseSteps - Completed 1 swipe(s) for elements located by By.id: com.akakce.akakce:id/card
+2025-06-13 14:22:47 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.2.1 i9-13980HX 32 GB 1 TB SSD RTX5000 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 14:22:48 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1.4 i9-13980HX 128 GB 4 TB SSD RTX3500 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 14:22:48 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Lenovo Thinkpad P16 Gen 2 I9 13950HX 128GB Ram 2 Tb SSD Rtx 5000 Ada 16" 4K - Gri
+2025-06-13 14:22:49 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1.3 i9-13980HX 64 GB 2 TB SSD RTX3500 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 14:22:49 [main] INFO  steps.BaseSteps - Product added to list. Current list size: 6
+2025-06-13 14:22:49 [main] INFO  steps.BaseSteps - Added product name: Monster Markut M7 V6.1.2 i9-13980HX 64 GB 2 TB SSD RTX3500 Ada 17.3" FreeDOS 4K Taşınabilir İş İstasyonu
+2025-06-13 14:22:52 [main] INFO  steps.BaseSteps - Swiping to find more elements located by By.id: com.akakce.akakce:id/card. Swipe count: 1
+2025-06-13 14:22:53 [main] INFO  steps.BaseSteps - Completed 1 swipe(s) for elements located by By.id: com.akakce.akakce:id/card
+2025-06-13 14:22:59 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Lenovo Thinkpad P16 Gen 2 I9 13950HX 128GB Ram 2 Tb SSD Rtx 5000 Ada 16" 4K - Gri
+2025-06-13 14:22:59 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1.3 i9-13980HX 64 GB 2 TB SSD RTX3500 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 14:22:59 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1.2 i9-13980HX 64 GB 2 TB SSD RTX3500 Ada 17.3" FreeDOS 4K Taşınabilir İş İstasyonu
+2025-06-13 14:22:59 [main] INFO  steps.BaseSteps - Product added to list. Current list size: 7
+2025-06-13 14:22:59 [main] INFO  steps.BaseSteps - Added product name: Monster Markut M7 V6.1.1 i9-13980HX 32 GB 1 TB SSD RTX3500 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 14:23:03 [main] INFO  steps.BaseSteps - Swiping to find more elements located by By.id: com.akakce.akakce:id/card. Swipe count: 1
+2025-06-13 14:23:04 [main] INFO  steps.BaseSteps - Completed 1 swipe(s) for elements located by By.id: com.akakce.akakce:id/card
+2025-06-13 14:23:09 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1.3 i9-13980HX 64 GB 2 TB SSD RTX3500 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 14:23:09 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1.2 i9-13980HX 64 GB 2 TB SSD RTX3500 Ada 17.3" FreeDOS 4K Taşınabilir İş İstasyonu
+2025-06-13 14:23:10 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1.1 i9-13980HX 32 GB 1 TB SSD RTX3500 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 14:23:10 [main] INFO  steps.BaseSteps - Product added to list. Current list size: 8
+2025-06-13 14:23:10 [main] INFO  steps.BaseSteps - Added product name: Monster Markut M7 V6.1 i9-13980HX 32 GB 1 TB SSD RTX3500 Ada 17.3" FreeDOS 4K Taşınabilir İş İstasyonu
+2025-06-13 14:23:16 [main] INFO  steps.BaseSteps - Swiping to find more elements located by By.id: com.akakce.akakce:id/card. Swipe count: 1
+2025-06-13 14:23:17 [main] INFO  steps.BaseSteps - Completed 1 swipe(s) for elements located by By.id: com.akakce.akakce:id/card
+2025-06-13 14:23:23 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1.3 i9-13980HX 64 GB 2 TB SSD RTX3500 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 14:23:23 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1.2 i9-13980HX 64 GB 2 TB SSD RTX3500 Ada 17.3" FreeDOS 4K Taşınabilir İş İstasyonu
+2025-06-13 14:23:24 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1.1 i9-13980HX 32 GB 1 TB SSD RTX3500 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 14:23:24 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1 i9-13980HX 32 GB 1 TB SSD RTX3500 Ada 17.3" FreeDOS 4K Taşınabilir İş İstasyonu
+2025-06-13 14:23:24 [main] INFO  steps.BaseSteps - Product added to list. Current list size: 9
+2025-06-13 14:23:24 [main] INFO  steps.BaseSteps - Added product name: Dell Precision 7680 I9 13950HX 64GB Ram Rtx Ada 5000 16GB 16" 4K Touch W11 Ingilizce Klavye - Gri
+2025-06-13 14:23:29 [main] INFO  steps.BaseSteps - Swiping to find more elements located by By.id: com.akakce.akakce:id/card. Swipe count: 1
+2025-06-13 14:23:30 [main] INFO  steps.BaseSteps - Completed 1 swipe(s) for elements located by By.id: com.akakce.akakce:id/card
+2025-06-13 14:23:36 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1.2 i9-13980HX 64 GB 2 TB SSD RTX3500 Ada 17.3" FreeDOS 4K Taşınabilir İş İstasyonu
+2025-06-13 14:23:36 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1.1 i9-13980HX 32 GB 1 TB SSD RTX3500 Ada 17.3" W11P 4K Taşınabilir İş İstasyonu
+2025-06-13 14:23:37 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Monster Markut M7 V6.1 i9-13980HX 32 GB 1 TB SSD RTX3500 Ada 17.3" FreeDOS 4K Taşınabilir İş İstasyonu
+2025-06-13 14:23:37 [main] DEBUG steps.BaseSteps - Duplicate product skipped: Dell Precision 7680 I9 13950HX 64GB Ram Rtx Ada 5000 16GB 16" 4K Touch W11 Ingilizce Klavye - Gri
+2025-06-13 14:23:37 [main] INFO  steps.BaseSteps - Product added to list. Current list size: 10
+2025-06-13 14:23:37 [main] INFO  steps.BaseSteps - Added product name: Asus Proart P16 WH7606WP Ryzen Aı 9 HX370 64GB Ddr5 4tb+4tb SSD 8GB/RTX5070 16.0-Inch, 4K (3840 x 2400) OLED 0.2ms Dokunmatik Ekran Windows 11 Pro Taşınabilir Bilgisayar WME020P08+ZETTAÇANTA
+2025-06-13 14:23:37 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.xpath: //android.widget.TextView[@resource-id='com.akakce.akakce:id/name' and @text="Asus Proart P16 WH7606WP Ryzen Aı 9 HX370 64GB Ddr5 4tb+4tb SSD 8GB/RTX5070 16.0-Inch, 4K (3840 x 2400) OLED 0.2ms Dokunmatik Ekran Windows 11 Pro Taşınabilir Bilgisayar WME020P08+ZETTAÇANTA"]
+2025-06-13 14:23:43 [main] INFO  steps.BaseSteps - Clicked on element: By.xpath: //android.widget.TextView[@resource-id='com.akakce.akakce:id/name' and @text="Asus Proart P16 WH7606WP Ryzen Aı 9 HX370 64GB Ddr5 4tb+4tb SSD 8GB/RTX5070 16.0-Inch, 4K (3840 x 2400) OLED 0.2ms Dokunmatik Ekran Windows 11 Pro Taşınabilir Bilgisayar WME020P08+ZETTAÇANTA"]
+2025-06-13 14:23:49 [main] WARN  steps.BaseSteps - Swipe 1 did not reveal element located by By.id: com.akakce.akakce:id/detailBtnLayout. Swiping again...
+2025-06-13 14:23:52 [main] INFO  steps.BaseSteps - Element located by By.id: com.akakce.akakce:id/detailBtnLayout is now visible after 1 swipe(s).
+2025-06-13 14:23:52 [main] DEBUG steps.BaseSteps - Trying to find and click element: By.id: com.akakce.akakce:id/detailBtnLayout
+2025-06-13 14:23:54 [main] INFO  steps.BaseSteps - Clicked on element: By.id: com.akakce.akakce:id/detailBtnLayout
+2025-06-13 14:23:54 [main] DEBUG steps.BaseSteps - Checking visibility of element: By.xpath: //android.view.View[@content-desc="Satıcıya Git"]
+2025-06-13 14:24:03 [main] INFO  steps.BaseSteps - Element is visible: By.xpath: //android.view.View[@content-desc="Satıcıya Git"]

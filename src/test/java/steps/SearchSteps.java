@@ -15,16 +15,21 @@ public class SearchSteps extends BaseSteps{
 
     public void searchProduct(String product) throws InterruptedException {
         clickElement(searchBar);
+        clickElement(searchInputXpath);
         sendKeys(searchInputXpath,product);
+        clickElement(searchInputXpath);
         sendEnter();
     }
 
     public void clickAndSetFilter() {
-        if(!isDisplayed(txtTitleProductList)){
+        while (!isDisplayed(txtTitleProductList)){
+            clickElement(searchInputXpath);
             sendEnter();
         }
         swipeUntilElementVisible(btnFilter,5);
         clickElement(btnFilter);
+        swipeUntilElementVisible(btn4KFilter,10);
+        clickElement(btn4KFilter);
         clickElement(btnListProducts);
     }
 
@@ -45,18 +50,21 @@ public class SearchSteps extends BaseSteps{
             List<WebElement> productsAfterSwipe = findElements(txtProductName);
 
             if (!productsAfterSwipe.isEmpty()) {
-                String lastProductName = productsAfterSwipe.get(productsAfterSwipe.size() - 1).getText();
+                for (WebElement product : productsAfterSwipe) {
+                    String productName = product.getText().trim();
 
-                if (!listProductName.contains(lastProductName)) {
-                    listProductName.add(lastProductName);
-                    logger.info("Adding to product list. list size {}. ", listProductName.size());
-                    logger.info("model name {}", lastProductName);
+                    if (!listProductName.contains(productName)) {
+                        listProductName.add(productName);
+                        logger.info("Product added to list. Current list size: {}", listProductName.size());
+                        logger.info("Added product name: {}", productName);
+                    } else {
+                        logger.debug("Duplicate product skipped: {}", productName);
+                    }
                 }
             }
         }
-        clickElementOnListBack(areaProduct,1);
-        swipeUntilElementVisible(btnGoToProduct,5);
+        clickElement(getProductByName(listProductName.get(index2-1)));
+        swipeUntilElementVisible(btnGoToProduct, 5);
         clickElement(btnGoToProduct);
     }
-
 }

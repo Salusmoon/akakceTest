@@ -5,6 +5,7 @@ import io.appium.java_client.android.AndroidDriver;
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
 import org.openqa.selenium.remote.DesiredCapabilities;
+import utils.ConfigReader;
 
 import java.net.MalformedURLException;
 import java.net.URL;
@@ -16,16 +17,16 @@ public class BaseTest {
     @Before
     public void browserConfigureOptions() throws MalformedURLException {
         DesiredCapabilities caps = new DesiredCapabilities();
-        caps.setCapability("appium:noReset", false);
-        caps.setCapability("platformName", "Android");
-        caps.setCapability("appium:deviceName", "emulator-5554");
-        caps.setCapability("appium:automationName", "UiAutomator2");
-        caps.setCapability("appium:platformVersion", "16.0");
-        caps.setCapability("appium:appPackage", "com.akakce.akakce");
-        caps.setCapability("appium:appActivity", "com.akakce.akakce.ui.splash.SplashActivity");
-        caps.setCapability("appium:autoGrantPermissions", true);
+        caps.setCapability("platformName", ConfigReader.get("platformName"));
+        caps.setCapability("appium:deviceName", ConfigReader.get("deviceName"));
+        caps.setCapability("appium:automationName", ConfigReader.get("automationName"));
+        caps.setCapability("appium:platformVersion", ConfigReader.get("platformVersion"));
+        caps.setCapability("appium:appPackage", ConfigReader.get("appPackage"));
+        caps.setCapability("appium:appActivity", ConfigReader.get("appActivity"));
+        caps.setCapability("appium:noReset", ConfigReader.getBoolean("noReset"));
+        caps.setCapability("appium:autoGrantPermissions", ConfigReader.getBoolean("autoGrantPermissions"));
 
-        URL url = new URL("http://127.0.0.1:4723");
+        URL url = new URL(ConfigReader.get("appiumServerURL"));
 
         driver = new AndroidDriver(url, caps);
     }

@@ -14,6 +14,5 @@ public class SearchLocater {
     public static final By txtTitleProductList= By.id("com.akakce.akakce:id/campaignTitle");
     public static final By txtProductName= By.id("com.akakce.akakce:id/name");
     public static final By btnGoToProduct = By.id("com.akakce.akakce:id/detailBtnLayout");
-
-
+    public static final By btn4KFilter = By.xpath("//android.widget.TextView[@text=\"4K\"]");
 }

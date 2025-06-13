@@ -54,18 +54,6 @@ public class BaseSteps {
 
     }
 
-    public void clickElementOnList(By by, int index) {
-        try {
-            logger.debug("Trying to find and click element: {}", by);
-            WebElement element = findElement(by);
-            element.click();
-            logger.info("Clicked on element: {}", by);
-        } catch (TimeoutException e) {
-            logger.warn("Timeout while waiting for element to be clickable: {}", by);
-        } catch (Exception e) {
-            logger.error("Unexpected error while clicking element: {}", by, e);
-        }
-    }
 
     public boolean isDisplayed(By by) {
         try {
@@ -170,4 +158,7 @@ public class BaseSteps {
         logger.info("Clicked on element at reverse index {} (actual index {}) located by {}", index, (elemList.size()-index), by);
     }
 
+    public static By getProductByName(String productName) {
+        return By.xpath("//android.widget.TextView[@resource-id='com.akakce.akakce:id/name' and @text=\"" + productName + "\"]");
+    }
 }
