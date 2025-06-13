@@ -23,7 +23,7 @@ Java, Appium ve Cucumber kullanılarak geliştirilmiş basit bir test otomasyon 
 
 - Android Studio Medium Phone Width: 1080 Height: 2400
 - Android version 16.0
-
+- config.properties dosyasından telefon ayarlarınızı yaparak çalıştırabilirsiniz
 
 ---
 
