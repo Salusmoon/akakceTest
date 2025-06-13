@@ -43,7 +43,7 @@ Java, Appium ve Cucumber kullanılarak geliştirilmiş basit bir test otomasyon 
 - `locater` – Kullanılan locaterların bulunduğu dosyalar
 - `stepDefinitions` – Cucumber steplerinin yönlendirildiği dosya
 - `steps` – Android metotlarının bulunduğu dosya
-- `resource\feature` - Test dosyası
+- `resources\feature` - Test dosyası
 
 ---
 
